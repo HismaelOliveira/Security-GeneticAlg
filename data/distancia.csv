@@ -1,0 +1,2402 @@
+,origem,destino,km
+0,Jijoca de Jericoacoara,Jijoca de Jericoacoara,0.0
+1,Jijoca de Jericoacoara,Acaraú,61.5
+2,Jijoca de Jericoacoara,Itarema,86.4
+3,Jijoca de Jericoacoara,Barroquinha,124.0
+4,Jijoca de Jericoacoara,Marco,80.4
+5,Jijoca de Jericoacoara,Morrinhos,99.2
+6,Jijoca de Jericoacoara,Caucaia,282.0
+7,Jijoca de Jericoacoara,Chaval,138.0
+8,Jijoca de Jericoacoara,Tururu,189.0
+9,Jijoca de Jericoacoara,São Gonçalo do Amarante,236.0
+10,Jijoca de Jericoacoara,Massapê,144.0
+11,Jijoca de Jericoacoara,Tianguâ,170.0
+12,Jijoca de Jericoacoara,Sobral,163.0
+13,Jijoca de Jericoacoara,Forquilha,174.0
+14,Jijoca de Jericoacoara,Umirim,204.0
+15,Jijoca de Jericoacoara,Maranguape,302.0
+16,Jijoca de Jericoacoara,Maracanaú,301.0
+17,Jijoca de Jericoacoara,Paracuru,235.0
+18,Jijoca de Jericoacoara,Fortaleza,298.0
+19,Jijoca de Jericoacoara,Pacatuba,312.0
+20,Jijoca de Jericoacoara,Aquiraz,325.0
+21,Jijoca de Jericoacoara,Reriutaba,224.0
+22,Jijoca de Jericoacoara,São Benedito,209.0
+23,Jijoca de Jericoacoara,Varjota,223.0
+24,Jijoca de Jericoacoara,Pacoti,371.0
+25,Jijoca de Jericoacoara,Guaiúba,322.0
+26,Jijoca de Jericoacoara,Eusébio,317.0
+27,Jijoca de Jericoacoara,Horizonte,341.0
+28,Jijoca de Jericoacoara,Pindoretama,344.0
+29,Jijoca de Jericoacoara,Canindé,312.0
+30,Jijoca de Jericoacoara,Chorozinho,362.0
+31,Jijoca de Jericoacoara,Ibaretama,435.0
+32,Jijoca de Jericoacoara,Jaguaruana,486.0
+33,Jijoca de Jericoacoara,Pacajus,347.0
+34,Jijoca de Jericoacoara,Aracati,445.0
+35,Jijoca de Jericoacoara,Icapuí,498.0
+36,Jijoca de Jericoacoara,Quixadá,414.0
+37,Jijoca de Jericoacoara,Crateús,372.0
+38,Jijoca de Jericoacoara,Morada Nova,460.0
+39,Jijoca de Jericoacoara,Tabuleiro do Norte,504.0
+40,Jijoca de Jericoacoara,Limoeiro do Norte,494.0
+41,Jijoca de Jericoacoara,Piquet Carneiro,532.0
+42,Jijoca de Jericoacoara,Saboeiro,621.0
+43,Jijoca de Jericoacoara,Aracoiba,377.0
+44,Jijoca de Jericoacoara,Itatira,328.0
+45,Jijoca de Jericoacoara,Baturité,392.0
+46,Jijoca de Jericoacoara,Iguatu,592.0
+47,Jijoca de Jericoacoara,Icó,617.0
+48,Jijoca de Jericoacoara,Juazeiro do Norte,741.0
+49,Acaraú,Jijoca de Jericoacoara,62.9
+50,Acaraú,Acaraú,0.0
+51,Acaraú,Itarema,24.9
+52,Acaraú,Barroquinha,150.0
+53,Acaraú,Marco,36.4
+54,Acaraú,Morrinhos,42.5
+55,Acaraú,Caucaia,220.0
+56,Acaraú,Chaval,163.0
+57,Acaraú,Tururu,132.0
+58,Acaraú,São Gonçalo do Amarante,174.0
+59,Acaraú,Massapê,94.1
+60,Acaraú,Tianguâ,198.0
+61,Acaraú,Sobral,111.0
+62,Acaraú,Forquilha,117.0
+63,Acaraú,Umirim,148.0
+64,Acaraú,Maranguape,241.0
+65,Acaraú,Maracanaú,239.0
+66,Acaraú,Paracuru,173.0
+67,Acaraú,Fortaleza,236.0
+68,Acaraú,Pacatuba,250.0
+69,Acaraú,Aquiraz,264.0
+70,Acaraú,Reriutaba,179.0
+71,Acaraú,São Benedito,197.0
+72,Acaraú,Varjota,178.0
+73,Acaraú,Pacoti,310.0
+74,Acaraú,Guaiúba,260.0
+75,Acaraú,Eusébio,256.0
+76,Acaraú,Horizonte,280.0
+77,Acaraú,Pindoretama,283.0
+78,Acaraú,Canindé,255.0
+79,Acaraú,Chorozinho,300.0
+80,Acaraú,Ibaretama,373.0
+81,Acaraú,Jaguaruana,425.0
+82,Acaraú,Pacajus,285.0
+83,Acaraú,Aracati,383.0
+84,Acaraú,Icapuí,436.0
+85,Acaraú,Quixadá,357.0
+86,Acaraú,Crateús,315.0
+87,Acaraú,Morada Nova,399.0
+88,Acaraú,Tabuleiro do Norte,442.0
+89,Acaraú,Limoeiro do Norte,433.0
+90,Acaraú,Piquet Carneiro,476.0
+91,Acaraú,Saboeiro,564.0
+92,Acaraú,Aracoiba,315.0
+93,Acaraú,Itatira,272.0
+94,Acaraú,Baturité,330.0
+95,Acaraú,Iguatu,535.0
+96,Acaraú,Icó,598.0
+97,Acaraú,Juazeiro do Norte,684.0
+98,Itarema,Jijoca de Jericoacoara,87.9
+99,Itarema,Acaraú,25.9
+100,Itarema,Itarema,0.0
+101,Itarema,Barroquinha,175.0
+102,Itarema,Marco,61.4
+103,Itarema,Morrinhos,65.7
+104,Itarema,Caucaia,196.0
+105,Itarema,Chaval,188.0
+106,Itarema,Tururu,115.0
+107,Itarema,São Gonçalo do Amarante,150.0
+108,Itarema,Massapê,117.0
+109,Itarema,Tianguâ,222.0
+110,Itarema,Sobral,134.0
+111,Itarema,Forquilha,140.0
+112,Itarema,Umirim,131.0
+113,Itarema,Maranguape,216.0
+114,Itarema,Maracanaú,214.0
+115,Itarema,Paracuru,149.0
+116,Itarema,Fortaleza,212.0
+117,Itarema,Pacatuba,226.0
+118,Itarema,Aquiraz,239.0
+119,Itarema,Reriutaba,203.0
+120,Itarema,São Benedito,220.0
+121,Itarema,Varjota,202.0
+122,Itarema,Pacoti,285.0
+123,Itarema,Guaiúba,235.0
+124,Itarema,Eusébio,231.0
+125,Itarema,Horizonte,255.0
+126,Itarema,Pindoretama,258.0
+127,Itarema,Canindé,262.0
+128,Itarema,Chorozinho,276.0
+129,Itarema,Ibaretama,349.0
+130,Itarema,Jaguaruana,400.0
+131,Itarema,Pacajus,261.0
+132,Itarema,Aracati,358.0
+133,Itarema,Icapuí,411.0
+134,Itarema,Quixadá,359.0
+135,Itarema,Crateús,312.0
+136,Itarema,Morada Nova,374.0
+137,Itarema,Tabuleiro do Norte,417.0
+138,Itarema,Limoeiro do Norte,408.0
+139,Itarema,Piquet Carneiro,516.0
+140,Itarema,Saboeiro,562.0
+141,Itarema,Aracoiba,290.0
+142,Itarema,Itatira,267.0
+143,Itarema,Baturité,305.0
+144,Itarema,Iguatu,537.0
+145,Itarema,Icó,573.0
+146,Itarema,Juazeiro do Norte,701.0
+147,Barroquinha,Jijoca de Jericoacoara,125.0
+148,Barroquinha,Acaraú,149.0
+149,Barroquinha,Itarema,174.0
+150,Barroquinha,Barroquinha,0.0
+151,Barroquinha,Marco,168.0
+152,Barroquinha,Morrinhos,187.0
+153,Barroquinha,Caucaia,369.0
+154,Barroquinha,Chaval,13.7
+155,Barroquinha,Tururu,276.0
+156,Barroquinha,São Gonçalo do Amarante,323.0
+157,Barroquinha,Massapê,137.0
+158,Barroquinha,Tianguâ,158.0
+159,Barroquinha,Sobral,156.0
+160,Barroquinha,Forquilha,173.0
+161,Barroquinha,Umirim,292.0
+162,Barroquinha,Maranguape,389.0
+163,Barroquinha,Maracanaú,388.0
+164,Barroquinha,Paracuru,322.0
+165,Barroquinha,Fortaleza,385.0
+166,Barroquinha,Pacatuba,399.0
+167,Barroquinha,Aquiraz,413.0
+168,Barroquinha,Reriutaba,212.0
+169,Barroquinha,São Benedito,198.0
+170,Barroquinha,Varjota,211.0
+171,Barroquinha,Pacoti,382.0
+172,Barroquinha,Guaiúba,409.0
+173,Barroquinha,Eusébio,404.0
+174,Barroquinha,Horizonte,428.0
+175,Barroquinha,Pindoretama,432.0
+176,Barroquinha,Canindé,311.0
+177,Barroquinha,Chorozinho,449.0
+178,Barroquinha,Ibaretama,440.0
+179,Barroquinha,Jaguaruana,574.0
+180,Barroquinha,Pacajus,434.0
+181,Barroquinha,Aracati,532.0
+182,Barroquinha,Icapuí,585.0
+183,Barroquinha,Quixadá,413.0
+184,Barroquinha,Crateús,361.0
+185,Barroquinha,Morada Nova,493.0
+186,Barroquinha,Tabuleiro do Norte,536.0
+187,Barroquinha,Limoeiro do Norte,527.0
+188,Barroquinha,Piquet Carneiro,531.0
+189,Barroquinha,Saboeiro,611.0
+190,Barroquinha,Aracoiba,390.0
+191,Barroquinha,Itatira,327.0
+192,Barroquinha,Baturité,396.0
+193,Barroquinha,Iguatu,591.0
+194,Barroquinha,Icó,616.0
+195,Barroquinha,Juazeiro do Norte,731.0
+196,Marco,Jijoca de Jericoacoara,81.5
+197,Marco,Acaraú,36.0
+198,Marco,Itarema,60.9
+199,Marco,Barroquinha,168.0
+200,Marco,Marco,0.0
+201,Marco,Morrinhos,23.7
+202,Marco,Caucaia,208.0
+203,Marco,Chaval,182.0
+204,Marco,Tururu,113.0
+205,Marco,São Gonçalo do Amarante,187.0
+206,Marco,Massapê,75.3
+207,Marco,Tianguâ,180.0
+208,Marco,Sobral,92.1
+209,Marco,Forquilha,98.2
+210,Marco,Umirim,129.0
+211,Marco,Maranguape,224.0
+212,Marco,Maracanaú,223.0
+213,Marco,Paracuru,191.0
+214,Marco,Fortaleza,224.0
+215,Marco,Pacatuba,234.0
+216,Marco,Aquiraz,247.0
+217,Marco,Reriutaba,161.0
+218,Marco,São Benedito,178.0
+219,Marco,Varjota,160.0
+220,Marco,Pacoti,273.0
+221,Marco,Guaiúba,243.0
+222,Marco,Eusébio,239.0
+223,Marco,Horizonte,263.0
+224,Marco,Pindoretama,266.0
+225,Marco,Canindé,236.0
+226,Marco,Chorozinho,284.0
+227,Marco,Ibaretama,366.0
+228,Marco,Jaguaruana,408.0
+229,Marco,Pacajus,269.0
+230,Marco,Aracati,366.0
+231,Marco,Icapuí,420.0
+232,Marco,Quixadá,338.0
+233,Marco,Crateús,296.0
+234,Marco,Morada Nova,382.0
+235,Marco,Tabuleiro do Norte,426.0
+236,Marco,Limoeiro do Norte,416.0
+237,Marco,Piquet Carneiro,457.0
+238,Marco,Saboeiro,546.0
+239,Marco,Aracoiba,315.0
+240,Marco,Itatira,253.0
+241,Marco,Baturité,293.0
+242,Marco,Iguatu,517.0
+243,Marco,Icó,541.0
+244,Marco,Juazeiro do Norte,666.0
+245,Morrinhos,Jijoca de Jericoacoara,102.0
+246,Morrinhos,Acaraú,42.1
+247,Morrinhos,Itarema,67.6
+248,Morrinhos,Barroquinha,189.0
+249,Morrinhos,Marco,23.9
+250,Morrinhos,Morrinhos,0.0
+251,Morrinhos,Caucaia,192.0
+252,Morrinhos,Chaval,203.0
+253,Morrinhos,Tururu,97.1
+254,Morrinhos,São Gonçalo do Amarante,171.0
+255,Morrinhos,Massapê,51.6
+256,Morrinhos,Tianguâ,156.0
+257,Morrinhos,Sobral,68.4
+258,Morrinhos,Forquilha,74.6
+259,Morrinhos,Umirim,113.0
+260,Morrinhos,Maranguape,208.0
+261,Morrinhos,Maracanaú,206.0
+262,Morrinhos,Paracuru,175.0
+263,Morrinhos,Fortaleza,208.0
+264,Morrinhos,Pacatuba,218.0
+265,Morrinhos,Aquiraz,231.0
+266,Morrinhos,Reriutaba,137.0
+267,Morrinhos,São Benedito,154.0
+268,Morrinhos,Varjota,136.0
+269,Morrinhos,Pacoti,257.0
+270,Morrinhos,Guaiúba,227.0
+271,Morrinhos,Eusébio,223.0
+272,Morrinhos,Horizonte,247.0
+273,Morrinhos,Pindoretama,250.0
+274,Morrinhos,Canindé,213.0
+275,Morrinhos,Chorozinho,268.0
+276,Morrinhos,Ibaretama,342.0
+277,Morrinhos,Jaguaruana,392.0
+278,Morrinhos,Pacajus,253.0
+279,Morrinhos,Aracati,350.0
+280,Morrinhos,Icapuí,404.0
+281,Morrinhos,Quixadá,315.0
+282,Morrinhos,Crateús,273.0
+283,Morrinhos,Morada Nova,366.0
+284,Morrinhos,Tabuleiro do Norte,410.0
+285,Morrinhos,Limoeiro do Norte,400.0
+286,Morrinhos,Piquet Carneiro,433.0
+287,Morrinhos,Saboeiro,522.0
+288,Morrinhos,Aracoiba,292.0
+289,Morrinhos,Itatira,229.0
+290,Morrinhos,Baturité,298.0
+291,Morrinhos,Iguatu,493.0
+292,Morrinhos,Icó,518.0
+293,Morrinhos,Juazeiro do Norte,642.0
+294,Caucaia,Jijoca de Jericoacoara,283.0
+295,Caucaia,Acaraú,221.0
+296,Caucaia,Itarema,197.0
+297,Caucaia,Barroquinha,370.0
+298,Caucaia,Marco,207.0
+299,Caucaia,Morrinhos,191.0
+300,Caucaia,Caucaia,0.0
+301,Caucaia,Chaval,383.0
+302,Caucaia,Tururu,95.0
+303,Caucaia,São Gonçalo do Amarante,44.3
+304,Caucaia,Massapê,234.0
+305,Caucaia,Tianguâ,303.0
+306,Caucaia,Sobral,216.0
+307,Caucaia,Forquilha,200.0
+308,Caucaia,Umirim,79.0
+309,Caucaia,Maranguape,23.4
+310,Caucaia,Maracanaú,21.9
+311,Caucaia,Paracuru,74.6
+312,Caucaia,Fortaleza,16.4
+313,Caucaia,Pacatuba,33.3
+314,Caucaia,Aquiraz,47.7
+315,Caucaia,Reriutaba,266.0
+316,Caucaia,São Benedito,301.0
+317,Caucaia,Varjota,252.0
+318,Caucaia,Pacoti,92.4
+319,Caucaia,Guaiúba,42.9
+320,Caucaia,Eusébio,39.4
+321,Caucaia,Horizonte,62.7
+322,Caucaia,Pindoretama,66.8
+323,Caucaia,Canindé,108.0
+324,Caucaia,Chorozinho,83.8
+325,Caucaia,Ibaretama,156.0
+326,Caucaia,Jaguaruana,200.0
+327,Caucaia,Pacajus,69.0
+328,Caucaia,Aracati,167.0
+329,Caucaia,Icapuí,220.0
+330,Caucaia,Quixadá,184.0
+331,Caucaia,Crateús,344.0
+332,Caucaia,Morada Nova,182.0
+333,Caucaia,Tabuleiro do Norte,226.0
+334,Caucaia,Limoeiro do Norte,216.0
+335,Caucaia,Piquet Carneiro,323.0
+336,Caucaia,Saboeiro,442.0
+337,Caucaia,Aracoiba,120.0
+338,Caucaia,Itatira,171.0
+339,Caucaia,Baturité,113.0
+340,Caucaia,Iguatu,383.0
+341,Caucaia,Icó,381.0
+342,Caucaia,Juazeiro do Norte,510.0
+343,Chaval,Jijoca de Jericoacoara,138.0
+344,Chaval,Acaraú,163.0
+345,Chaval,Itarema,187.0
+346,Chaval,Barroquinha,13.7
+347,Chaval,Marco,181.0
+348,Chaval,Morrinhos,200.0
+349,Chaval,Caucaia,383.0
+350,Chaval,Chaval,0.0
+351,Chaval,Tururu,290.0
+352,Chaval,São Gonçalo do Amarante,337.0
+353,Chaval,Massapê,150.0
+354,Chaval,Tianguâ,172.0
+355,Chaval,Sobral,170.0
+356,Chaval,Forquilha,186.0
+357,Chaval,Umirim,305.0
+358,Chaval,Maranguape,403.0
+359,Chaval,Maracanaú,402.0
+360,Chaval,Paracuru,336.0
+361,Chaval,Fortaleza,399.0
+362,Chaval,Pacatuba,413.0
+363,Chaval,Aquiraz,426.0
+364,Chaval,Reriutaba,225.0
+365,Chaval,São Benedito,211.0
+366,Chaval,Varjota,224.0
+367,Chaval,Pacoti,396.0
+368,Chaval,Guaiúba,423.0
+369,Chaval,Eusébio,418.0
+370,Chaval,Horizonte,442.0
+371,Chaval,Pindoretama,446.0
+372,Chaval,Canindé,324.0
+373,Chaval,Chorozinho,463.0
+374,Chaval,Ibaretama,454.0
+375,Chaval,Jaguaruana,587.0
+376,Chaval,Pacajus,448.0
+377,Chaval,Aracati,546.0
+378,Chaval,Icapuí,599.0
+379,Chaval,Quixadá,426.0
+380,Chaval,Crateús,375.0
+381,Chaval,Morada Nova,507.0
+382,Chaval,Tabuleiro do Norte,550.0
+383,Chaval,Limoeiro do Norte,541.0
+384,Chaval,Piquet Carneiro,545.0
+385,Chaval,Saboeiro,624.0
+386,Chaval,Aracoiba,403.0
+387,Chaval,Itatira,341.0
+388,Chaval,Baturité,409.0
+389,Chaval,Iguatu,605.0
+390,Chaval,Icó,629.0
+391,Chaval,Juazeiro do Norte,744.0
+392,Tururu,Jijoca de Jericoacoara,191.0
+393,Tururu,Acaraú,131.0
+394,Tururu,Itarema,117.0
+395,Tururu,Barroquinha,278.0
+396,Tururu,Marco,113.0
+397,Tururu,Morrinhos,97.0
+398,Tururu,Caucaia,95.4
+399,Tururu,Chaval,292.0
+400,Tururu,Tururu,0.0
+401,Tururu,São Gonçalo do Amarante,65.3
+402,Tururu,Massapê,141.0
+403,Tururu,Tianguâ,239.0
+404,Tururu,Sobral,151.0
+405,Tururu,Forquilha,135.0
+406,Tururu,Umirim,16.6
+407,Tururu,Maranguape,112.0
+408,Tururu,Maracanaú,110.0
+409,Tururu,Paracuru,73.4
+410,Tururu,Fortaleza,111.0
+411,Tururu,Pacatuba,121.0
+412,Tururu,Aquiraz,135.0
+413,Tururu,Reriutaba,219.0
+414,Tururu,São Benedito,237.0
+415,Tururu,Varjota,219.0
+416,Tururu,Pacoti,161.0
+417,Tururu,Guaiúba,131.0
+418,Tururu,Eusébio,127.0
+419,Tururu,Horizonte,150.0
+420,Tururu,Pindoretama,154.0
+421,Tururu,Canindé,148.0
+422,Tururu,Chorozinho,171.0
+423,Tururu,Ibaretama,244.0
+424,Tururu,Jaguaruana,296.0
+425,Tururu,Pacajus,156.0
+426,Tururu,Aracati,254.0
+427,Tururu,Icapuí,307.0
+428,Tururu,Quixadá,245.0
+429,Tururu,Crateús,304.0
+430,Tururu,Morada Nova,270.0
+431,Tururu,Tabuleiro do Norte,313.0
+432,Tururu,Limoeiro do Norte,304.0
+433,Tururu,Piquet Carneiro,363.0
+434,Tururu,Saboeiro,482.0
+435,Tururu,Aracoiba,207.0
+436,Tururu,Itatira,152.0
+437,Tururu,Baturité,181.0
+438,Tururu,Iguatu,423.0
+439,Tururu,Icó,448.0
+440,Tururu,Juazeiro do Norte,602.0
+441,São Gonçalo do Amarante,Jijoca de Jericoacoara,238.0
+442,São Gonçalo do Amarante,Acaraú,176.0
+443,São Gonçalo do Amarante,Itarema,152.0
+444,São Gonçalo do Amarante,Barroquinha,324.0
+445,São Gonçalo do Amarante,Marco,188.0
+446,São Gonçalo do Amarante,Morrinhos,172.0
+447,São Gonçalo do Amarante,Caucaia,46.2
+448,São Gonçalo do Amarante,Chaval,338.0
+449,São Gonçalo do Amarante,Tururu,65.4
+450,São Gonçalo do Amarante,São Gonçalo do Amarante,0.0
+451,São Gonçalo do Amarante,Massapê,205.0
+452,São Gonçalo do Amarante,Tianguâ,273.0
+453,São Gonçalo do Amarante,Sobral,186.0
+454,São Gonçalo do Amarante,Forquilha,170.0
+455,São Gonçalo do Amarante,Umirim,49.4
+456,São Gonçalo do Amarante,Maranguape,61.0
+457,São Gonçalo do Amarante,Maracanaú,59.5
+458,São Gonçalo do Amarante,Paracuru,29.5
+459,São Gonçalo do Amarante,Fortaleza,62.2
+460,São Gonçalo do Amarante,Pacatuba,70.9
+461,São Gonçalo do Amarante,Aquiraz,84.4
+462,São Gonçalo do Amarante,Reriutaba,254.0
+463,São Gonçalo do Amarante,São Benedito,272.0
+464,São Gonçalo do Amarante,Varjota,253.0
+465,São Gonçalo do Amarante,Pacoti,130.0
+466,São Gonçalo do Amarante,Guaiúba,80.5
+467,São Gonçalo do Amarante,Eusébio,76.0
+468,São Gonçalo do Amarante,Horizonte,99.9
+469,São Gonçalo do Amarante,Pindoretama,103.0
+470,São Gonçalo do Amarante,Canindé,145.0
+471,São Gonçalo do Amarante,Chorozinho,121.0
+472,São Gonçalo do Amarante,Ibaretama,193.0
+473,São Gonçalo do Amarante,Jaguaruana,245.0
+474,São Gonçalo do Amarante,Pacajus,106.0
+475,São Gonçalo do Amarante,Aracati,203.0
+476,São Gonçalo do Amarante,Icapuí,257.0
+477,São Gonçalo do Amarante,Quixadá,221.0
+478,São Gonçalo do Amarante,Crateús,339.0
+479,São Gonçalo do Amarante,Morada Nova,219.0
+480,São Gonçalo do Amarante,Tabuleiro do Norte,263.0
+481,São Gonçalo do Amarante,Limoeiro do Norte,253.0
+482,São Gonçalo do Amarante,Piquet Carneiro,361.0
+483,São Gonçalo do Amarante,Saboeiro,480.0
+484,São Gonçalo do Amarante,Aracoiba,157.0
+485,São Gonçalo do Amarante,Itatira,209.0
+486,São Gonçalo do Amarante,Baturité,151.0
+487,São Gonçalo do Amarante,Iguatu,420.0
+488,São Gonçalo do Amarante,Icó,418.0
+489,São Gonçalo do Amarante,Juazeiro do Norte,547.0
+490,Massapê,Jijoca de Jericoacoara,145.0
+491,Massapê,Acaraú,93.6
+492,Massapê,Itarema,119.0
+493,Massapê,Barroquinha,137.0
+494,Massapê,Marco,75.4
+495,Massapê,Morrinhos,51.5
+496,Massapê,Caucaia,234.0
+497,Massapê,Chaval,150.0
+498,Massapê,Tururu,144.0
+499,Massapê,São Gonçalo do Amarante,218.0
+500,Massapê,Massapê,0.0
+501,Massapê,Tianguâ,109.0
+502,Massapê,Sobral,19.9
+503,Massapê,Forquilha,36.4
+504,Massapê,Umirim,156.0
+505,Massapê,Maranguape,251.0
+506,Massapê,Maracanaú,249.0
+507,Massapê,Paracuru,217.0
+508,Massapê,Fortaleza,251.0
+509,Massapê,Pacatuba,260.0
+510,Massapê,Aquiraz,274.0
+511,Massapê,Reriutaba,89.7
+512,Massapê,São Benedito,107.0
+513,Massapê,Varjota,88.6
+514,Massapê,Pacoti,246.0
+515,Massapê,Guaiúba,270.0
+516,Massapê,Eusébio,266.0
+517,Massapê,Horizonte,290.0
+518,Massapê,Pindoretama,293.0
+519,Massapê,Canindé,174.0
+520,Massapê,Chorozinho,310.0
+521,Massapê,Ibaretama,304.0
+522,Massapê,Jaguaruana,435.0
+523,Massapê,Pacajus,295.0
+524,Massapê,Aracati,393.0
+525,Massapê,Icapuí,446.0
+526,Massapê,Quixadá,277.0
+527,Massapê,Crateús,234.0
+528,Massapê,Morada Nova,357.0
+529,Massapê,Tabuleiro do Norte,400.0
+530,Massapê,Limoeiro do Norte,391.0
+531,Massapê,Piquet Carneiro,395.0
+532,Massapê,Saboeiro,484.0
+533,Massapê,Aracoiba,253.0
+534,Massapê,Itatira,191.0
+535,Massapê,Baturité,260.0
+536,Massapê,Iguatu,455.0
+537,Massapê,Icó,479.0
+538,Massapê,Juazeiro do Norte,604.0
+539,Tianguâ,Jijoca de Jericoacoara,171.0
+540,Tianguâ,Acaraú,198.0
+541,Tianguâ,Itarema,227.0
+542,Tianguâ,Barroquinha,158.0
+543,Tianguâ,Marco,180.0
+544,Tianguâ,Morrinhos,156.0
+545,Tianguâ,Caucaia,303.0
+546,Tianguâ,Chaval,172.0
+547,Tianguâ,Tururu,212.0
+548,Tianguâ,São Gonçalo do Amarante,286.0
+549,Tianguâ,Massapê,109.0
+550,Tianguâ,Tianguâ,0.0
+551,Tianguâ,Sobral,90.1
+552,Tianguâ,Forquilha,105.0
+553,Tianguâ,Umirim,224.0
+554,Tianguâ,Maranguape,319.0
+555,Tianguâ,Maracanaú,318.0
+556,Tianguâ,Paracuru,285.0
+557,Tianguâ,Fortaleza,319.0
+558,Tianguâ,Pacatuba,329.0
+559,Tianguâ,Aquiraz,343.0
+560,Tianguâ,Reriutaba,86.8
+561,Tianguâ,São Benedito,39.3
+562,Tianguâ,Varjota,128.0
+563,Tianguâ,Pacoti,315.0
+564,Tianguâ,Guaiúba,339.0
+565,Tianguâ,Eusébio,334.0
+566,Tianguâ,Horizonte,358.0
+567,Tianguâ,Pindoretama,362.0
+568,Tianguâ,Canindé,243.0
+569,Tianguâ,Chorozinho,379.0
+570,Tianguâ,Ibaretama,373.0
+571,Tianguâ,Jaguaruana,504.0
+572,Tianguâ,Pacajus,364.0
+573,Tianguâ,Aracati,462.0
+574,Tianguâ,Icapuí,515.0
+575,Tianguâ,Quixadá,345.0
+576,Tianguâ,Crateús,204.0
+577,Tianguâ,Morada Nova,425.0
+578,Tianguâ,Tabuleiro do Norte,469.0
+579,Tianguâ,Limoeiro do Norte,459.0
+580,Tianguâ,Piquet Carneiro,404.0
+581,Tianguâ,Saboeiro,454.0
+582,Tianguâ,Aracoiba,322.0
+583,Tianguâ,Itatira,260.0
+584,Tianguâ,Baturité,328.0
+585,Tianguâ,Iguatu,453.0
+586,Tianguâ,Icó,521.0
+587,Tianguâ,Juazeiro do Norte,574.0
+588,Sobral,Jijoca de Jericoacoara,165.0
+589,Sobral,Acaraú,110.0
+590,Sobral,Itarema,139.0
+591,Sobral,Barroquinha,157.0
+592,Sobral,Marco,92.2
+593,Sobral,Morrinhos,68.3
+594,Sobral,Caucaia,215.0
+595,Sobral,Chaval,170.0
+596,Sobral,Tururu,125.0
+597,Sobral,São Gonçalo do Amarante,199.0
+598,Sobral,Massapê,20.4
+599,Sobral,Tianguâ,89.8
+600,Sobral,Sobral,0.0
+601,Sobral,Forquilha,17.3
+602,Sobral,Umirim,137.0
+603,Sobral,Maranguape,232.0
+604,Sobral,Maracanaú,230.0
+605,Sobral,Paracuru,198.0
+606,Sobral,Fortaleza,231.0
+607,Sobral,Pacatuba,241.0
+608,Sobral,Aquiraz,255.0
+609,Sobral,Reriutaba,70.8
+610,Sobral,São Benedito,88.0
+611,Sobral,Varjota,69.8
+612,Sobral,Pacoti,227.0
+613,Sobral,Guaiúba,251.0
+614,Sobral,Eusébio,247.0
+615,Sobral,Horizonte,270.0
+616,Sobral,Pindoretama,274.0
+617,Sobral,Canindé,155.0
+618,Sobral,Chorozinho,291.0
+619,Sobral,Ibaretama,285.0
+620,Sobral,Jaguaruana,416.0
+621,Sobral,Pacajus,276.0
+622,Sobral,Aracati,374.0
+623,Sobral,Icapuí,427.0
+624,Sobral,Quixadá,258.0
+625,Sobral,Crateús,215.0
+626,Sobral,Morada Nova,338.0
+627,Sobral,Tabuleiro do Norte,381.0
+628,Sobral,Limoeiro do Norte,372.0
+629,Sobral,Piquet Carneiro,376.0
+630,Sobral,Saboeiro,465.0
+631,Sobral,Aracoiba,234.0
+632,Sobral,Itatira,172.0
+633,Sobral,Baturité,241.0
+634,Sobral,Iguatu,436.0
+635,Sobral,Icó,460.0
+636,Sobral,Juazeiro do Norte,585.0
+637,Forquilha,Jijoca de Jericoacoara,177.0
+638,Forquilha,Acaraú,116.0
+639,Forquilha,Itarema,145.0
+640,Forquilha,Barroquinha,173.0
+641,Forquilha,Marco,98.2
+642,Forquilha,Morrinhos,74.3
+643,Forquilha,Caucaia,200.0
+644,Forquilha,Chaval,186.0
+645,Forquilha,Tururu,131.0
+646,Forquilha,São Gonçalo do Amarante,170.0
+647,Forquilha,Massapê,36.3
+648,Forquilha,Tianguâ,105.0
+649,Forquilha,Sobral,17.5
+650,Forquilha,Forquilha,0.0
+651,Forquilha,Umirim,121.0
+652,Forquilha,Maranguape,216.0
+653,Forquilha,Maracanaú,214.0
+654,Forquilha,Paracuru,178.0
+655,Forquilha,Fortaleza,216.0
+656,Forquilha,Pacatuba,226.0
+657,Forquilha,Aquiraz,239.0
+658,Forquilha,Reriutaba,86.0
+659,Forquilha,São Benedito,103.0
+660,Forquilha,Varjota,85.0
+661,Forquilha,Pacoti,210.0
+662,Forquilha,Guaiúba,235.0
+663,Forquilha,Eusébio,231.0
+664,Forquilha,Horizonte,255.0
+665,Forquilha,Pindoretama,258.0
+666,Forquilha,Canindé,138.0
+667,Forquilha,Chorozinho,276.0
+668,Forquilha,Ibaretama,268.0
+669,Forquilha,Jaguaruana,400.0
+670,Forquilha,Pacajus,261.0
+671,Forquilha,Aracati,358.0
+672,Forquilha,Icapuí,411.0
+673,Forquilha,Quixadá,240.0
+674,Forquilha,Crateús,198.0
+675,Forquilha,Morada Nova,320.0
+676,Forquilha,Tabuleiro do Norte,364.0
+677,Forquilha,Limoeiro do Norte,354.0
+678,Forquilha,Piquet Carneiro,359.0
+679,Forquilha,Saboeiro,447.0
+680,Forquilha,Aracoiba,217.0
+681,Forquilha,Itatira,155.0
+682,Forquilha,Baturité,223.0
+683,Forquilha,Iguatu,418.0
+684,Forquilha,Icó,443.0
+685,Forquilha,Juazeiro do Norte,567.0
+686,Umirim,Jijoca de Jericoacoara,207.0
+687,Umirim,Acaraú,147.0
+688,Umirim,Itarema,132.0
+689,Umirim,Barroquinha,292.0
+690,Umirim,Marco,129.0
+691,Umirim,Morrinhos,113.0
+692,Umirim,Caucaia,79.1
+693,Umirim,Chaval,306.0
+694,Umirim,Tururu,16.3
+695,Umirim,São Gonçalo do Amarante,49.0
+696,Umirim,Massapê,156.0
+697,Umirim,Tianguâ,224.0
+698,Umirim,Sobral,137.0
+699,Umirim,Forquilha,121.0
+700,Umirim,Umirim,0.0
+701,Umirim,Maranguape,95.2
+702,Umirim,Maracanaú,93.8
+703,Umirim,Paracuru,57.0
+704,Umirim,Fortaleza,95.1
+705,Umirim,Pacatuba,105.0
+706,Umirim,Aquiraz,119.0
+707,Umirim,Reriutaba,205.0
+708,Umirim,São Benedito,223.0
+709,Umirim,Varjota,202.0
+710,Umirim,Pacoti,146.0
+711,Umirim,Guaiúba,115.0
+712,Umirim,Eusébio,110.0
+713,Umirim,Horizonte,134.0
+714,Umirim,Pindoretama,138.0
+715,Umirim,Canindé,134.0
+716,Umirim,Chorozinho,155.0
+717,Umirim,Ibaretama,228.0
+718,Umirim,Jaguaruana,279.0
+719,Umirim,Pacajus,140.0
+720,Umirim,Aracati,238.0
+721,Umirim,Icapuí,291.0
+722,Umirim,Quixadá,231.0
+723,Umirim,Crateús,290.0
+724,Umirim,Morada Nova,254.0
+725,Umirim,Tabuleiro do Norte,297.0
+726,Umirim,Limoeiro do Norte,288.0
+727,Umirim,Piquet Carneiro,349.0
+728,Umirim,Saboeiro,468.0
+729,Umirim,Aracoiba,191.0
+730,Umirim,Itatira,137.0
+731,Umirim,Baturité,167.0
+732,Umirim,Iguatu,409.0
+733,Umirim,Icó,453.0
+734,Umirim,Juazeiro do Norte,588.0
+735,Maranguape,Jijoca de Jericoacoara,303.0
+736,Maranguape,Acaraú,241.0
+737,Maranguape,Itarema,218.0
+738,Maranguape,Barroquinha,390.0
+739,Maranguape,Marco,224.0
+740,Maranguape,Morrinhos,208.0
+741,Maranguape,Caucaia,22.1
+742,Maranguape,Chaval,403.0
+743,Maranguape,Tururu,111.0
+744,Maranguape,São Gonçalo do Amarante,60.6
+745,Maranguape,Massapê,251.0
+746,Maranguape,Tianguâ,319.0
+747,Maranguape,Sobral,232.0
+748,Maranguape,Forquilha,216.0
+749,Maranguape,Umirim,95.3
+750,Maranguape,Maranguape,0.0
+751,Maranguape,Maracanaú,8.5
+752,Maranguape,Paracuru,94.9
+753,Maranguape,Fortaleza,24.4
+754,Maranguape,Pacatuba,14.1
+755,Maranguape,Aquiraz,40.6
+756,Maranguape,Reriutaba,259.0
+757,Maranguape,São Benedito,307.0
+758,Maranguape,Varjota,246.0
+759,Maranguape,Pacoti,69.6
+760,Maranguape,Guaiúba,23.8
+761,Maranguape,Eusébio,32.3
+762,Maranguape,Horizonte,48.5
+763,Maranguape,Pindoretama,59.6
+764,Maranguape,Canindé,101.0
+765,Maranguape,Chorozinho,69.4
+766,Maranguape,Ibaretama,141.0
+767,Maranguape,Jaguaruana,186.0
+768,Maranguape,Pacajus,54.5
+769,Maranguape,Aracati,160.0
+770,Maranguape,Icapuí,213.0
+771,Maranguape,Quixadá,170.0
+772,Maranguape,Crateús,337.0
+773,Maranguape,Morada Nova,168.0
+774,Maranguape,Tabuleiro do Norte,211.0
+775,Maranguape,Limoeiro do Norte,202.0
+776,Maranguape,Piquet Carneiro,298.0
+777,Maranguape,Saboeiro,435.0
+778,Maranguape,Aracoiba,74.6
+779,Maranguape,Itatira,164.0
+780,Maranguape,Baturité,85.4
+781,Maranguape,Iguatu,365.0
+782,Maranguape,Icó,367.0
+783,Maranguape,Juazeiro do Norte,495.0
+784,Maracanaú,Jijoca de Jericoacoara,301.0
+785,Maracanaú,Acaraú,239.0
+786,Maracanaú,Itarema,216.0
+787,Maracanaú,Barroquinha,388.0
+788,Maracanaú,Marco,222.0
+789,Maracanaú,Morrinhos,206.0
+790,Maracanaú,Caucaia,20.1
+791,Maracanaú,Chaval,401.0
+792,Maracanaú,Tururu,109.0
+793,Maracanaú,São Gonçalo do Amarante,58.6
+794,Maracanaú,Massapê,249.0
+795,Maracanaú,Tianguâ,317.0
+796,Maracanaú,Sobral,230.0
+797,Maracanaú,Forquilha,214.0
+798,Maracanaú,Umirim,93.3
+799,Maracanaú,Maranguape,8.4
+800,Maracanaú,Maracanaú,0.0
+801,Maracanaú,Paracuru,92.9
+802,Maracanaú,Fortaleza,22.4
+803,Maracanaú,Pacatuba,13.9
+804,Maracanaú,Aquiraz,32.5
+805,Maracanaú,Reriutaba,275.0
+806,Maracanaú,São Benedito,322.0
+807,Maracanaú,Varjota,261.0
+808,Maracanaú,Pacoti,77.9
+809,Maracanaú,Guaiúba,23.5
+810,Maracanaú,Eusébio,24.2
+811,Maracanaú,Horizonte,48.1
+812,Maracanaú,Pindoretama,51.5
+813,Maracanaú,Canindé,117.0
+814,Maracanaú,Chorozinho,68.9
+815,Maracanaú,Ibaretama,141.0
+816,Maracanaú,Jaguaruana,193.0
+817,Maracanaú,Pacajus,54.0
+818,Maracanaú,Aracati,152.0
+819,Maracanaú,Icapuí,205.0
+820,Maracanaú,Quixadá,169.0
+821,Maracanaú,Crateús,353.0
+822,Maracanaú,Morada Nova,167.0
+823,Maracanaú,Tabuleiro do Norte,211.0
+824,Maracanaú,Limoeiro do Norte,202.0
+825,Maracanaú,Piquet Carneiro,298.0
+826,Maracanaú,Saboeiro,451.0
+827,Maracanaú,Aracoiba,80.7
+828,Maracanaú,Itatira,180.0
+829,Maracanaú,Baturité,91.5
+830,Maracanaú,Iguatu,365.0
+831,Maracanaú,Icó,366.0
+832,Maracanaú,Juazeiro do Norte,495.0
+833,Paracuru,Jijoca de Jericoacoara,227.0
+834,Paracuru,Acaraú,167.0
+835,Paracuru,Itarema,143.0
+836,Paracuru,Barroquinha,318.0
+837,Paracuru,Marco,179.0
+838,Paracuru,Morrinhos,163.0
+839,Paracuru,Caucaia,74.9
+840,Paracuru,Chaval,332.0
+841,Paracuru,Tururu,73.0
+842,Paracuru,São Gonçalo do Amarante,28.8
+843,Paracuru,Massapê,207.0
+844,Paracuru,Tianguâ,281.0
+845,Paracuru,Sobral,194.0
+846,Paracuru,Forquilha,178.0
+847,Paracuru,Umirim,57.0
+848,Paracuru,Maranguape,95.0
+849,Paracuru,Maracanaú,93.6
+850,Paracuru,Paracuru,0.0
+851,Paracuru,Fortaleza,90.9
+852,Paracuru,Pacatuba,105.0
+853,Paracuru,Aquiraz,118.0
+854,Paracuru,Reriutaba,262.0
+855,Paracuru,São Benedito,279.0
+856,Paracuru,Varjota,261.0
+857,Paracuru,Pacoti,164.0
+858,Paracuru,Guaiúba,115.0
+859,Paracuru,Eusébio,110.0
+860,Paracuru,Horizonte,134.0
+861,Paracuru,Pindoretama,137.0
+862,Paracuru,Canindé,179.0
+863,Paracuru,Chorozinho,155.0
+864,Paracuru,Ibaretama,227.0
+865,Paracuru,Jaguaruana,279.0
+866,Paracuru,Pacajus,140.0
+867,Paracuru,Aracati,237.0
+868,Paracuru,Icapuí,291.0
+869,Paracuru,Quixadá,255.0
+870,Paracuru,Crateús,346.0
+871,Paracuru,Morada Nova,253.0
+872,Paracuru,Tabuleiro do Norte,297.0
+873,Paracuru,Limoeiro do Norte,287.0
+874,Paracuru,Piquet Carneiro,395.0
+875,Paracuru,Saboeiro,496.0
+876,Paracuru,Aracoiba,191.0
+877,Paracuru,Itatira,194.0
+878,Paracuru,Baturité,185.0
+879,Paracuru,Iguatu,451.0
+880,Paracuru,Icó,452.0
+881,Paracuru,Juazeiro do Norte,581.0
+882,Fortaleza,Jijoca de Jericoacoara,299.0
+883,Fortaleza,Acaraú,237.0
+884,Fortaleza,Itarema,213.0
+885,Fortaleza,Barroquinha,386.0
+886,Fortaleza,Marco,223.0
+887,Fortaleza,Morrinhos,207.0
+888,Fortaleza,Caucaia,16.3
+889,Fortaleza,Chaval,399.0
+890,Fortaleza,Tururu,111.0
+891,Fortaleza,São Gonçalo do Amarante,60.1
+892,Fortaleza,Massapê,250.0
+893,Fortaleza,Tianguâ,319.0
+894,Fortaleza,Sobral,231.0
+895,Fortaleza,Forquilha,215.0
+896,Fortaleza,Umirim,94.8
+897,Fortaleza,Maranguape,24.9
+898,Fortaleza,Maracanaú,23.4
+899,Fortaleza,Paracuru,90.6
+900,Fortaleza,Fortaleza,0.0
+901,Fortaleza,Pacatuba,31.5
+902,Fortaleza,Aquiraz,32.4
+903,Fortaleza,Reriutaba,276.0
+904,Fortaleza,São Benedito,317.0
+905,Fortaleza,Varjota,263.0
+906,Fortaleza,Pacoti,103.0
+907,Fortaleza,Guaiúba,47.0
+908,Fortaleza,Eusébio,24.1
+909,Fortaleza,Horizonte,47.7
+910,Fortaleza,Pindoretama,51.5
+911,Fortaleza,Canindé,118.0
+912,Fortaleza,Chorozinho,68.5
+913,Fortaleza,Ibaretama,140.0
+914,Fortaleza,Jaguaruana,193.0
+915,Fortaleza,Pacajus,53.6
+916,Fortaleza,Aracati,151.0
+917,Fortaleza,Icapuí,205.0
+918,Fortaleza,Quixadá,169.0
+919,Fortaleza,Crateús,354.0
+920,Fortaleza,Morada Nova,167.0
+921,Fortaleza,Tabuleiro do Norte,210.0
+922,Fortaleza,Limoeiro do Norte,201.0
+923,Fortaleza,Piquet Carneiro,298.0
+924,Fortaleza,Saboeiro,452.0
+925,Fortaleza,Aracoiba,104.0
+926,Fortaleza,Itatira,182.0
+927,Fortaleza,Baturité,115.0
+928,Fortaleza,Iguatu,365.0
+929,Fortaleza,Icó,366.0
+930,Fortaleza,Juazeiro do Norte,494.0
+931,Pacatuba,Jijoca de Jericoacoara,310.0
+932,Pacatuba,Acaraú,248.0
+933,Pacatuba,Itarema,224.0
+934,Pacatuba,Barroquinha,394.0
+935,Pacatuba,Marco,231.0
+936,Pacatuba,Morrinhos,215.0
+937,Pacatuba,Caucaia,28.8
+938,Pacatuba,Chaval,407.0
+939,Pacatuba,Tururu,118.0
+940,Pacatuba,São Gonçalo do Amarante,67.3
+941,Pacatuba,Massapê,257.0
+942,Pacatuba,Tianguâ,326.0
+943,Pacatuba,Sobral,239.0
+944,Pacatuba,Forquilha,223.0
+945,Pacatuba,Umirim,102.0
+946,Pacatuba,Maranguape,10.5
+947,Pacatuba,Maracanaú,10.3
+948,Pacatuba,Paracuru,102.0
+949,Pacatuba,Fortaleza,37.8
+950,Pacatuba,Pacatuba,0.0
+951,Pacatuba,Aquiraz,35.3
+952,Pacatuba,Reriutaba,266.0
+953,Pacatuba,São Benedito,314.0
+954,Pacatuba,Varjota,253.0
+955,Pacatuba,Pacoti,73.5
+956,Pacatuba,Guaiúba,14.4
+957,Pacatuba,Eusébio,27.0
+958,Pacatuba,Horizonte,39.1
+959,Pacatuba,Pindoretama,54.3
+960,Pacatuba,Canindé,108.0
+961,Pacatuba,Chorozinho,60.0
+962,Pacatuba,Ibaretama,132.0
+963,Pacatuba,Jaguaruana,176.0
+964,Pacatuba,Pacajus,45.1
+965,Pacatuba,Aracati,154.0
+966,Pacatuba,Icapuí,208.0
+967,Pacatuba,Quixadá,160.0
+968,Pacatuba,Crateús,344.0
+969,Pacatuba,Morada Nova,159.0
+970,Pacatuba,Tabuleiro do Norte,202.0
+971,Pacatuba,Limoeiro do Norte,193.0
+972,Pacatuba,Piquet Carneiro,289.0
+973,Pacatuba,Saboeiro,416.0
+974,Pacatuba,Aracoiba,71.6
+975,Pacatuba,Itatira,172.0
+976,Pacatuba,Baturité,82.4
+977,Pacatuba,Iguatu,356.0
+978,Pacatuba,Icó,358.0
+979,Pacatuba,Juazeiro do Norte,486.0
+980,Aquiraz,Jijoca de Jericoacoara,326.0
+981,Aquiraz,Acaraú,264.0
+982,Aquiraz,Itarema,241.0
+983,Aquiraz,Barroquinha,413.0
+984,Aquiraz,Marco,247.0
+985,Aquiraz,Morrinhos,231.0
+986,Aquiraz,Caucaia,44.9
+987,Aquiraz,Chaval,427.0
+988,Aquiraz,Tururu,135.0
+989,Aquiraz,São Gonçalo do Amarante,83.9
+990,Aquiraz,Massapê,274.0
+991,Aquiraz,Tianguâ,343.0
+992,Aquiraz,Sobral,255.0
+993,Aquiraz,Forquilha,239.0
+994,Aquiraz,Umirim,119.0
+995,Aquiraz,Maranguape,40.8
+996,Aquiraz,Maracanaú,34.7
+997,Aquiraz,Paracuru,118.0
+998,Aquiraz,Fortaleza,30.2
+999,Aquiraz,Pacatuba,41.3
+1000,Aquiraz,Aquiraz,0.0
+1001,Aquiraz,Reriutaba,300.0
+1002,Aquiraz,São Benedito,348.0
+1003,Aquiraz,Varjota,287.0
+1004,Aquiraz,Pacoti,117.0
+1005,Aquiraz,Guaiúba,50.9
+1006,Aquiraz,Eusébio,10.3
+1007,Aquiraz,Horizonte,48.1
+1008,Aquiraz,Pindoretama,20.0
+1009,Aquiraz,Canindé,142.0
+1010,Aquiraz,Chorozinho,68.7
+1011,Aquiraz,Ibaretama,141.0
+1012,Aquiraz,Jaguaruana,162.0
+1013,Aquiraz,Pacajus,53.8
+1014,Aquiraz,Aracati,120.0
+1015,Aquiraz,Icapuí,173.0
+1016,Aquiraz,Quixadá,169.0
+1017,Aquiraz,Crateús,378.0
+1018,Aquiraz,Morada Nova,167.0
+1019,Aquiraz,Tabuleiro do Norte,228.0
+1020,Aquiraz,Limoeiro do Norte,219.0
+1021,Aquiraz,Piquet Carneiro,298.0
+1022,Aquiraz,Saboeiro,425.0
+1023,Aquiraz,Aracoiba,105.0
+1024,Aquiraz,Itatira,205.0
+1025,Aquiraz,Baturité,116.0
+1026,Aquiraz,Iguatu,365.0
+1027,Aquiraz,Icó,366.0
+1028,Aquiraz,Juazeiro do Norte,495.0
+1029,Reriutaba,Jijoca de Jericoacoara,224.0
+1030,Reriutaba,Acaraú,178.0
+1031,Reriutaba,Itarema,207.0
+1032,Reriutaba,Barroquinha,211.0
+1033,Reriutaba,Marco,160.0
+1034,Reriutaba,Morrinhos,136.0
+1035,Reriutaba,Caucaia,267.0
+1036,Reriutaba,Chaval,225.0
+1037,Reriutaba,Tururu,193.0
+1038,Reriutaba,São Gonçalo do Amarante,267.0
+1039,Reriutaba,Massapê,88.9
+1040,Reriutaba,Tianguâ,87.4
+1041,Reriutaba,Sobral,70.4
+1042,Reriutaba,Forquilha,85.3
+1043,Reriutaba,Umirim,205.0
+1044,Reriutaba,Maranguape,259.0
+1045,Reriutaba,Maracanaú,275.0
+1046,Reriutaba,Paracuru,266.0
+1047,Reriutaba,Fortaleza,276.0
+1048,Reriutaba,Pacatuba,269.0
+1049,Reriutaba,Aquiraz,300.0
+1050,Reriutaba,Reriutaba,0.0
+1051,Reriutaba,São Benedito,47.7
+1052,Reriutaba,Varjota,13.7
+1053,Reriutaba,Pacoti,231.0
+1054,Reriutaba,Guaiúba,264.0
+1055,Reriutaba,Eusébio,291.0
+1056,Reriutaba,Horizonte,315.0
+1057,Reriutaba,Pindoretama,319.0
+1058,Reriutaba,Canindé,159.0
+1059,Reriutaba,Chorozinho,287.0
+1060,Reriutaba,Ibaretama,289.0
+1061,Reriutaba,Jaguaruana,437.0
+1062,Reriutaba,Pacajus,321.0
+1063,Reriutaba,Aracati,419.0
+1064,Reriutaba,Icapuí,472.0
+1065,Reriutaba,Quixadá,262.0
+1066,Reriutaba,Crateús,155.0
+1067,Reriutaba,Morada Nova,342.0
+1068,Reriutaba,Tabuleiro do Norte,385.0
+1069,Reriutaba,Limoeiro do Norte,376.0
+1070,Reriutaba,Piquet Carneiro,355.0
+1071,Reriutaba,Saboeiro,405.0
+1072,Reriutaba,Aracoiba,238.0
+1073,Reriutaba,Itatira,176.0
+1074,Reriutaba,Baturité,245.0
+1075,Reriutaba,Iguatu,404.0
+1076,Reriutaba,Icó,465.0
+1077,Reriutaba,Juazeiro do Norte,525.0
+1078,São Benedito,Jijoca de Jericoacoara,211.0
+1079,São Benedito,Acaraú,196.0
+1080,São Benedito,Itarema,225.0
+1081,São Benedito,Barroquinha,198.0
+1082,São Benedito,Marco,178.0
+1083,São Benedito,Morrinhos,154.0
+1084,São Benedito,Caucaia,301.0
+1085,São Benedito,Chaval,212.0
+1086,São Benedito,Tururu,211.0
+1087,São Benedito,São Gonçalo do Amarante,271.0
+1088,São Benedito,Massapê,107.0
+1089,São Benedito,Tianguâ,40.1
+1090,São Benedito,Sobral,88.4
+1091,São Benedito,Forquilha,103.0
+1092,São Benedito,Umirim,223.0
+1093,São Benedito,Maranguape,306.0
+1094,São Benedito,Maracanaú,322.0
+1095,São Benedito,Paracuru,284.0
+1096,São Benedito,Fortaleza,323.0
+1097,São Benedito,Pacatuba,316.0
+1098,São Benedito,Aquiraz,347.0
+1099,São Benedito,Reriutaba,47.4
+1100,São Benedito,São Benedito,0.0
+1101,São Benedito,Varjota,61.2
+1102,São Benedito,Pacoti,279.0
+1103,São Benedito,Guaiúba,311.0
+1104,São Benedito,Eusébio,339.0
+1105,São Benedito,Horizonte,363.0
+1106,São Benedito,Pindoretama,366.0
+1107,São Benedito,Canindé,207.0
+1108,São Benedito,Chorozinho,335.0
+1109,São Benedito,Ibaretama,336.0
+1110,São Benedito,Jaguaruana,484.0
+1111,São Benedito,Pacajus,344.0
+1112,São Benedito,Aracati,466.0
+1113,São Benedito,Icapuí,519.0
+1114,São Benedito,Quixadá,309.0
+1115,São Benedito,Crateús,165.0
+1116,São Benedito,Morada Nova,389.0
+1117,São Benedito,Tabuleiro do Norte,433.0
+1118,São Benedito,Limoeiro do Norte,423.0
+1119,São Benedito,Piquet Carneiro,365.0
+1120,São Benedito,Saboeiro,414.0
+1121,São Benedito,Aracoiba,286.0
+1122,São Benedito,Itatira,223.0
+1123,São Benedito,Baturité,292.0
+1124,São Benedito,Iguatu,414.0
+1125,São Benedito,Icó,482.0
+1126,São Benedito,Juazeiro do Norte,534.0
+1127,Varjota,Jijoca de Jericoacoara,224.0
+1128,Varjota,Acaraú,178.0
+1129,Varjota,Itarema,207.0
+1130,Varjota,Barroquinha,211.0
+1131,Varjota,Marco,160.0
+1132,Varjota,Morrinhos,136.0
+1133,Varjota,Caucaia,254.0
+1134,Varjota,Chaval,225.0
+1135,Varjota,Tururu,192.0
+1136,Varjota,São Gonçalo do Amarante,267.0
+1137,Varjota,Massapê,88.8
+1138,Varjota,Tianguâ,101.0
+1139,Varjota,Sobral,70.2
+1140,Varjota,Forquilha,85.1
+1141,Varjota,Umirim,204.0
+1142,Varjota,Maranguape,246.0
+1143,Varjota,Maracanaú,262.0
+1144,Varjota,Paracuru,266.0
+1145,Varjota,Fortaleza,263.0
+1146,Varjota,Pacatuba,256.0
+1147,Varjota,Aquiraz,287.0
+1148,Varjota,Reriutaba,13.5
+1149,Varjota,São Benedito,61.2
+1150,Varjota,Varjota,0.0
+1151,Varjota,Pacoti,218.0
+1152,Varjota,Guaiúba,251.0
+1153,Varjota,Eusébio,278.0
+1154,Varjota,Horizonte,302.0
+1155,Varjota,Pindoretama,306.0
+1156,Varjota,Canindé,146.0
+1157,Varjota,Chorozinho,274.0
+1158,Varjota,Ibaretama,276.0
+1159,Varjota,Jaguaruana,424.0
+1160,Varjota,Pacajus,308.0
+1161,Varjota,Aracati,406.0
+1162,Varjota,Icapuí,459.0
+1163,Varjota,Quixadá,249.0
+1164,Varjota,Crateús,151.0
+1165,Varjota,Morada Nova,329.0
+1166,Varjota,Tabuleiro do Norte,372.0
+1167,Varjota,Limoeiro do Norte,363.0
+1168,Varjota,Piquet Carneiro,315.0
+1169,Varjota,Saboeiro,400.0
+1170,Varjota,Aracoiba,225.0
+1171,Varjota,Itatira,163.0
+1172,Varjota,Baturité,232.0
+1173,Varjota,Iguatu,364.0
+1174,Varjota,Icó,451.0
+1175,Varjota,Juazeiro do Norte,520.0
+1176,Pacoti,Jijoca de Jericoacoara,372.0
+1177,Pacoti,Acaraú,310.0
+1178,Pacoti,Itarema,287.0
+1179,Pacoti,Barroquinha,382.0
+1180,Pacoti,Marco,273.0
+1181,Pacoti,Morrinhos,257.0
+1182,Pacoti,Caucaia,93.2
+1183,Pacoti,Chaval,396.0
+1184,Pacoti,Tururu,160.0
+1185,Pacoti,São Gonçalo do Amarante,130.0
+1186,Pacoti,Massapê,246.0
+1187,Pacoti,Tianguâ,314.0
+1188,Pacoti,Sobral,227.0
+1189,Pacoti,Forquilha,209.0
+1190,Pacoti,Umirim,146.0
+1191,Pacoti,Maranguape,69.6
+1192,Pacoti,Maracanaú,101.0
+1193,Pacoti,Paracuru,164.0
+1194,Pacoti,Fortaleza,102.0
+1195,Pacoti,Pacatuba,72.9
+1196,Pacoti,Aquiraz,126.0
+1197,Pacoti,Reriutaba,231.0
+1198,Pacoti,São Benedito,278.0
+1199,Pacoti,Varjota,217.0
+1200,Pacoti,Pacoti,0.0
+1201,Pacoti,Guaiúba,59.9
+1202,Pacoti,Eusébio,118.0
+1203,Pacoti,Horizonte,75.9
+1204,Pacoti,Pindoretama,116.0
+1205,Pacoti,Canindé,72.6
+1206,Pacoti,Chorozinho,67.6
+1207,Pacoti,Ibaretama,117.0
+1208,Pacoti,Jaguaruana,182.0
+1209,Pacoti,Pacajus,70.4
+1210,Pacoti,Aracati,166.0
+1211,Pacoti,Icapuí,219.0
+1212,Pacoti,Quixadá,112.0
+1213,Pacoti,Crateús,309.0
+1214,Pacoti,Morada Nova,164.0
+1215,Pacoti,Tabuleiro do Norte,208.0
+1216,Pacoti,Limoeiro do Norte,198.0
+1217,Pacoti,Piquet Carneiro,241.0
+1218,Pacoti,Saboeiro,407.0
+1219,Pacoti,Aracoiba,35.0
+1220,Pacoti,Itatira,136.0
+1221,Pacoti,Baturité,24.1
+1222,Pacoti,Iguatu,308.0
+1223,Pacoti,Icó,315.0
+1224,Pacoti,Juazeiro do Norte,438.0
+1225,Guaiúba,Jijoca de Jericoacoara,323.0
+1226,Guaiúba,Acaraú,261.0
+1227,Guaiúba,Itarema,237.0
+1228,Guaiúba,Barroquinha,410.0
+1229,Guaiúba,Marco,244.0
+1230,Guaiúba,Morrinhos,228.0
+1231,Guaiúba,Caucaia,41.9
+1232,Guaiúba,Chaval,423.0
+1233,Guaiúba,Tururu,131.0
+1234,Guaiúba,São Gonçalo do Amarante,80.4
+1235,Guaiúba,Massapê,270.0
+1236,Guaiúba,Tianguâ,339.0
+1237,Guaiúba,Sobral,252.0
+1238,Guaiúba,Forquilha,236.0
+1239,Guaiúba,Umirim,115.0
+1240,Guaiúba,Maranguape,23.6
+1241,Guaiúba,Maracanaú,23.4
+1242,Guaiúba,Paracuru,115.0
+1243,Guaiúba,Fortaleza,50.8
+1244,Guaiúba,Pacatuba,13.6
+1245,Guaiúba,Aquiraz,48.4
+1246,Guaiúba,Reriutaba,264.0
+1247,Guaiúba,São Benedito,311.0
+1248,Guaiúba,Varjota,250.0
+1249,Guaiúba,Pacoti,59.8
+1250,Guaiúba,Guaiúba,0.0
+1251,Guaiúba,Eusébio,40.0
+1252,Guaiúba,Horizonte,39.4
+1253,Guaiúba,Pindoretama,67.4
+1254,Guaiúba,Canindé,106.0
+1255,Guaiúba,Chorozinho,60.2
+1256,Guaiúba,Ibaretama,132.0
+1257,Guaiúba,Jaguaruana,177.0
+1258,Guaiúba,Pacajus,45.3
+1259,Guaiúba,Aracati,160.0
+1260,Guaiúba,Icapuí,213.0
+1261,Guaiúba,Quixadá,160.0
+1262,Guaiúba,Crateús,342.0
+1263,Guaiúba,Morada Nova,159.0
+1264,Guaiúba,Tabuleiro do Norte,202.0
+1265,Guaiúba,Limoeiro do Norte,193.0
+1266,Guaiúba,Piquet Carneiro,289.0
+1267,Guaiúba,Saboeiro,417.0
+1268,Guaiúba,Aracoiba,57.9
+1269,Guaiúba,Itatira,169.0
+1270,Guaiúba,Baturité,68.7
+1271,Guaiúba,Iguatu,361.0
+1272,Guaiúba,Icó,358.0
+1273,Guaiúba,Juazeiro do Norte,490.0
+1274,Eusébio,Jijoca de Jericoacoara,319.0
+1275,Eusébio,Acaraú,257.0
+1276,Eusébio,Itarema,233.0
+1277,Eusébio,Barroquinha,406.0
+1278,Eusébio,Marco,240.0
+1279,Eusébio,Morrinhos,224.0
+1280,Eusébio,Caucaia,37.9
+1281,Eusébio,Chaval,419.0
+1282,Eusébio,Tururu,127.0
+1283,Eusébio,São Gonçalo do Amarante,76.5
+1284,Eusébio,Massapê,267.0
+1285,Eusébio,Tianguâ,335.0
+1286,Eusébio,Sobral,248.0
+1287,Eusébio,Forquilha,232.0
+1288,Eusébio,Umirim,111.0
+1289,Eusébio,Maranguape,33.4
+1290,Eusébio,Maracanaú,27.3
+1291,Eusébio,Paracuru,111.0
+1292,Eusébio,Fortaleza,22.8
+1293,Eusébio,Pacatuba,33.9
+1294,Eusébio,Aquiraz,10.7
+1295,Eusébio,Reriutaba,293.0
+1296,Eusébio,São Benedito,340.0
+1297,Eusébio,Varjota,279.0
+1298,Eusébio,Pacoti,110.0
+1299,Eusébio,Guaiúba,43.5
+1300,Eusébio,Eusébio,0.0
+1301,Eusébio,Horizonte,40.7
+1302,Eusébio,Pindoretama,29.8
+1303,Eusébio,Canindé,134.0
+1304,Eusébio,Chorozinho,61.5
+1305,Eusébio,Ibaretama,133.0
+1306,Eusébio,Jaguaruana,172.0
+1307,Eusébio,Pacajus,46.6
+1308,Eusébio,Aracati,130.0
+1309,Eusébio,Icapuí,183.0
+1310,Eusébio,Quixadá,162.0
+1311,Eusébio,Crateús,370.0
+1312,Eusébio,Morada Nova,160.0
+1313,Eusébio,Tabuleiro do Norte,203.0
+1314,Eusébio,Limoeiro do Norte,194.0
+1315,Eusébio,Piquet Carneiro,290.0
+1316,Eusébio,Saboeiro,418.0
+1317,Eusébio,Aracoiba,97.4
+1318,Eusébio,Itatira,198.0
+1319,Eusébio,Baturité,108.0
+1320,Eusébio,Iguatu,358.0
+1321,Eusébio,Icó,359.0
+1322,Eusébio,Juazeiro do Norte,487.0
+1323,Horizonte,Jijoca de Jericoacoara,336.0
+1324,Horizonte,Acaraú,274.0
+1325,Horizonte,Itarema,251.0
+1326,Horizonte,Barroquinha,423.0
+1327,Horizonte,Marco,257.0
+1328,Horizonte,Morrinhos,241.0
+1329,Horizonte,Caucaia,55.3
+1330,Horizonte,Chaval,437.0
+1331,Horizonte,Tururu,145.0
+1332,Horizonte,São Gonçalo do Amarante,93.8
+1333,Horizonte,Massapê,284.0
+1334,Horizonte,Tianguâ,353.0
+1335,Horizonte,Sobral,265.0
+1336,Horizonte,Forquilha,249.0
+1337,Horizonte,Umirim,129.0
+1338,Horizonte,Maranguape,50.8
+1339,Horizonte,Maracanaú,44.6
+1340,Horizonte,Paracuru,128.0
+1341,Horizonte,Fortaleza,43.7
+1342,Horizonte,Pacatuba,35.2
+1343,Horizonte,Aquiraz,41.5
+1344,Horizonte,Reriutaba,310.0
+1345,Horizonte,São Benedito,358.0
+1346,Horizonte,Varjota,296.0
+1347,Horizonte,Pacoti,73.9
+1348,Horizonte,Guaiúba,36.4
+1349,Horizonte,Eusébio,33.2
+1350,Horizonte,Horizonte,0.0
+1351,Horizonte,Pindoretama,39.9
+1352,Horizonte,Canindé,152.0
+1353,Horizonte,Chorozinho,25.9
+1354,Horizonte,Ibaretama,97.7
+1355,Horizonte,Jaguaruana,142.0
+1356,Horizonte,Pacajus,11.0
+1357,Horizonte,Aracati,124.0
+1358,Horizonte,Icapuí,177.0
+1359,Horizonte,Quixadá,126.0
+1360,Horizonte,Crateús,374.0
+1361,Horizonte,Morada Nova,124.0
+1362,Horizonte,Tabuleiro do Norte,168.0
+1363,Horizonte,Limoeiro do Norte,159.0
+1364,Horizonte,Piquet Carneiro,255.0
+1365,Horizonte,Saboeiro,382.0
+1366,Horizonte,Aracoiba,61.8
+1367,Horizonte,Itatira,215.0
+1368,Horizonte,Baturité,72.6
+1369,Horizonte,Iguatu,322.0
+1370,Horizonte,Icó,323.0
+1371,Horizonte,Juazeiro do Norte,452.0
+1372,Pindoretama,Jijoca de Jericoacoara,345.0
+1373,Pindoretama,Acaraú,282.0
+1374,Pindoretama,Itarema,259.0
+1375,Pindoretama,Barroquinha,431.0
+1376,Pindoretama,Marco,265.0
+1377,Pindoretama,Morrinhos,249.0
+1378,Pindoretama,Caucaia,63.5
+1379,Pindoretama,Chaval,445.0
+1380,Pindoretama,Tururu,153.0
+1381,Pindoretama,São Gonçalo do Amarante,102.0
+1382,Pindoretama,Massapê,292.0
+1383,Pindoretama,Tianguâ,361.0
+1384,Pindoretama,Sobral,273.0
+1385,Pindoretama,Forquilha,257.0
+1386,Pindoretama,Umirim,137.0
+1387,Pindoretama,Maranguape,59.0
+1388,Pindoretama,Maracanaú,52.9
+1389,Pindoretama,Paracuru,136.0
+1390,Pindoretama,Fortaleza,48.4
+1391,Pindoretama,Pacatuba,59.5
+1392,Pindoretama,Aquiraz,18.5
+1393,Pindoretama,Reriutaba,318.0
+1394,Pindoretama,São Benedito,366.0
+1395,Pindoretama,Varjota,305.0
+1396,Pindoretama,Pacoti,107.0
+1397,Pindoretama,Guaiúba,65.9
+1398,Pindoretama,Eusébio,28.5
+1399,Pindoretama,Horizonte,36.5
+1400,Pindoretama,Pindoretama,0.0
+1401,Pindoretama,Canindé,160.0
+1402,Pindoretama,Chorozinho,50.7
+1403,Pindoretama,Ibaretama,123.0
+1404,Pindoretama,Jaguaruana,144.0
+1405,Pindoretama,Pacajus,35.9
+1406,Pindoretama,Aracati,102.0
+1407,Pindoretama,Icapuí,155.0
+1408,Pindoretama,Quixadá,151.0
+1409,Pindoretama,Crateús,396.0
+1410,Pindoretama,Morada Nova,149.0
+1411,Pindoretama,Tabuleiro do Norte,211.0
+1412,Pindoretama,Limoeiro do Norte,201.0
+1413,Pindoretama,Piquet Carneiro,280.0
+1414,Pindoretama,Saboeiro,407.0
+1415,Pindoretama,Aracoiba,94.6
+1416,Pindoretama,Itatira,224.0
+1417,Pindoretama,Baturité,105.0
+1418,Pindoretama,Iguatu,351.0
+1419,Pindoretama,Icó,348.0
+1420,Pindoretama,Juazeiro do Norte,481.0
+1421,Canindé,Jijoca de Jericoacoara,314.0
+1422,Canindé,Acaraú,254.0
+1423,Canindé,Itarema,264.0
+1424,Canindé,Barroquinha,310.0
+1425,Canindé,Marco,236.0
+1426,Canindé,Morrinhos,212.0
+1427,Canindé,Caucaia,108.0
+1428,Canindé,Chaval,324.0
+1429,Canindé,Tururu,147.0
+1430,Canindé,São Gonçalo do Amarante,145.0
+1431,Canindé,Massapê,174.0
+1432,Canindé,Tianguâ,243.0
+1433,Canindé,Sobral,155.0
+1434,Canindé,Forquilha,138.0
+1435,Canindé,Umirim,133.0
+1436,Canindé,Maranguape,100.0
+1437,Canindé,Maracanaú,116.0
+1438,Canindé,Paracuru,179.0
+1439,Canindé,Fortaleza,117.0
+1440,Canindé,Pacatuba,110.0
+1441,Canindé,Aquiraz,141.0
+1442,Canindé,Reriutaba,159.0
+1443,Canindé,São Benedito,207.0
+1444,Canindé,Varjota,146.0
+1445,Canindé,Pacoti,72.4
+1446,Canindé,Guaiúba,105.0
+1447,Canindé,Eusébio,133.0
+1448,Canindé,Horizonte,156.0
+1449,Canindé,Pindoretama,160.0
+1450,Canindé,Canindé,0.0
+1451,Canindé,Chorozinho,126.0
+1452,Canindé,Ibaretama,127.0
+1453,Canindé,Jaguaruana,275.0
+1454,Canindé,Pacajus,162.0
+1455,Canindé,Aracati,260.0
+1456,Canindé,Icapuí,313.0
+1457,Canindé,Quixadá,100.0
+1458,Canindé,Crateús,233.0
+1459,Canindé,Morada Nova,180.0
+1460,Canindé,Tabuleiro do Norte,224.0
+1461,Canindé,Limoeiro do Norte,214.0
+1462,Canindé,Piquet Carneiro,219.0
+1463,Canindé,Saboeiro,338.0
+1464,Canindé,Aracoiba,76.9
+1465,Canindé,Itatira,64.7
+1466,Canindé,Baturité,83.1
+1467,Canindé,Iguatu,278.0
+1468,Canindé,Icó,303.0
+1469,Canindé,Juazeiro do Norte,458.0
+1470,Chorozinho,Jijoca de Jericoacoara,362.0
+1471,Chorozinho,Acaraú,300.0
+1472,Chorozinho,Itarema,276.0
+1473,Chorozinho,Barroquinha,448.0
+1474,Chorozinho,Marco,282.0
+1475,Chorozinho,Morrinhos,266.0
+1476,Chorozinho,Caucaia,80.7
+1477,Chorozinho,Chaval,462.0
+1478,Chorozinho,Tururu,170.0
+1479,Chorozinho,São Gonçalo do Amarante,119.0
+1480,Chorozinho,Massapê,309.0
+1481,Chorozinho,Tianguâ,378.0
+1482,Chorozinho,Sobral,291.0
+1483,Chorozinho,Forquilha,275.0
+1484,Chorozinho,Umirim,154.0
+1485,Chorozinho,Maranguape,76.2
+1486,Chorozinho,Maracanaú,70.1
+1487,Chorozinho,Paracuru,154.0
+1488,Chorozinho,Fortaleza,69.1
+1489,Chorozinho,Pacatuba,60.6
+1490,Chorozinho,Aquiraz,66.9
+1491,Chorozinho,Reriutaba,295.0
+1492,Chorozinho,São Benedito,342.0
+1493,Chorozinho,Varjota,281.0
+1494,Chorozinho,Pacoti,67.6
+1495,Chorozinho,Guaiúba,61.9
+1496,Chorozinho,Eusébio,58.6
+1497,Chorozinho,Horizonte,25.6
+1498,Chorozinho,Pindoretama,51.4
+1499,Chorozinho,Canindé,136.0
+1500,Chorozinho,Chorozinho,0.0
+1501,Chorozinho,Ibaretama,73.3
+1502,Chorozinho,Jaguaruana,118.0
+1503,Chorozinho,Pacajus,15.2
+1504,Chorozinho,Aracati,101.0
+1505,Chorozinho,Icapuí,154.0
+1506,Chorozinho,Quixadá,102.0
+1507,Chorozinho,Crateús,349.0
+1508,Chorozinho,Morada Nova,100.0
+1509,Chorozinho,Tabuleiro do Norte,143.0
+1510,Chorozinho,Limoeiro do Norte,134.0
+1511,Chorozinho,Piquet Carneiro,230.0
+1512,Chorozinho,Saboeiro,358.0
+1513,Chorozinho,Aracoiba,41.1
+1514,Chorozinho,Itatira,200.0
+1515,Chorozinho,Baturité,52.0
+1516,Chorozinho,Iguatu,298.0
+1517,Chorozinho,Icó,299.0
+1518,Chorozinho,Juazeiro do Norte,427.0
+1519,Ibaretama,Jijoca de Jericoacoara,434.0
+1520,Ibaretama,Acaraú,372.0
+1521,Ibaretama,Itarema,349.0
+1522,Ibaretama,Barroquinha,440.0
+1523,Ibaretama,Marco,355.0
+1524,Ibaretama,Morrinhos,342.0
+1525,Ibaretama,Caucaia,152.0
+1526,Ibaretama,Chaval,454.0
+1527,Ibaretama,Tururu,242.0
+1528,Ibaretama,São Gonçalo do Amarante,191.0
+1529,Ibaretama,Massapê,304.0
+1530,Ibaretama,Tianguâ,373.0
+1531,Ibaretama,Sobral,285.0
+1532,Ibaretama,Forquilha,268.0
+1533,Ibaretama,Umirim,226.0
+1534,Ibaretama,Maranguape,148.0
+1535,Ibaretama,Maracanaú,142.0
+1536,Ibaretama,Paracuru,225.0
+1537,Ibaretama,Fortaleza,141.0
+1538,Ibaretama,Pacatuba,132.0
+1539,Ibaretama,Aquiraz,139.0
+1540,Ibaretama,Reriutaba,289.0
+1541,Ibaretama,São Benedito,337.0
+1542,Ibaretama,Varjota,276.0
+1543,Ibaretama,Pacoti,121.0
+1544,Ibaretama,Guaiúba,134.0
+1545,Ibaretama,Eusébio,130.0
+1546,Ibaretama,Horizonte,97.3
+1547,Ibaretama,Pindoretama,123.0
+1548,Ibaretama,Canindé,127.0
+1549,Ibaretama,Chorozinho,73.3
+1550,Ibaretama,Ibaretama,0.0
+1551,Ibaretama,Jaguaruana,178.0
+1552,Ibaretama,Pacajus,86.9
+1553,Ibaretama,Aracati,161.0
+1554,Ibaretama,Icapuí,214.0
+1555,Ibaretama,Quixadá,28.0
+1556,Ibaretama,Crateús,276.0
+1557,Ibaretama,Morada Nova,114.0
+1558,Ibaretama,Tabuleiro do Norte,158.0
+1559,Ibaretama,Limoeiro do Norte,148.0
+1560,Ibaretama,Piquet Carneiro,157.0
+1561,Ibaretama,Saboeiro,284.0
+1562,Ibaretama,Aracoiba,85.9
+1563,Ibaretama,Itatira,169.0
+1564,Ibaretama,Baturité,96.7
+1565,Ibaretama,Iguatu,224.0
+1566,Ibaretama,Icó,231.0
+1567,Ibaretama,Juazeiro do Norte,354.0
+1568,Jaguaruana,Jijoca de Jericoacoara,478.0
+1569,Jaguaruana,Acaraú,416.0
+1570,Jaguaruana,Itarema,392.0
+1571,Jaguaruana,Barroquinha,564.0
+1572,Jaguaruana,Marco,398.0
+1573,Jaguaruana,Morrinhos,382.0
+1574,Jaguaruana,Caucaia,197.0
+1575,Jaguaruana,Chaval,578.0
+1576,Jaguaruana,Tururu,286.0
+1577,Jaguaruana,São Gonçalo do Amarante,235.0
+1578,Jaguaruana,Massapê,425.0
+1579,Jaguaruana,Tianguâ,494.0
+1580,Jaguaruana,Sobral,406.0
+1581,Jaguaruana,Forquilha,390.0
+1582,Jaguaruana,Umirim,270.0
+1583,Jaguaruana,Maranguape,192.0
+1584,Jaguaruana,Maracanaú,186.0
+1585,Jaguaruana,Paracuru,269.0
+1586,Jaguaruana,Fortaleza,185.0
+1587,Jaguaruana,Pacatuba,177.0
+1588,Jaguaruana,Aquiraz,183.0
+1589,Jaguaruana,Reriutaba,439.0
+1590,Jaguaruana,São Benedito,487.0
+1591,Jaguaruana,Varjota,425.0
+1592,Jaguaruana,Pacoti,182.0
+1593,Jaguaruana,Guaiúba,178.0
+1594,Jaguaruana,Eusébio,174.0
+1595,Jaguaruana,Horizonte,141.0
+1596,Jaguaruana,Pindoretama,161.0
+1597,Jaguaruana,Canindé,277.0
+1598,Jaguaruana,Chorozinho,117.0
+1599,Jaguaruana,Ibaretama,178.0
+1600,Jaguaruana,Jaguaruana,0.0
+1601,Jaguaruana,Pacajus,131.0
+1602,Jaguaruana,Aracati,51.1
+1603,Jaguaruana,Icapuí,104.0
+1604,Jaguaruana,Quixadá,176.0
+1605,Jaguaruana,Crateús,422.0
+1606,Jaguaruana,Morada Nova,96.9
+1607,Jaguaruana,Tabuleiro do Norte,90.8
+1608,Jaguaruana,Limoeiro do Norte,81.5
+1609,Jaguaruana,Piquet Carneiro,289.0
+1610,Jaguaruana,Saboeiro,388.0
+1611,Jaguaruana,Aracoiba,155.0
+1612,Jaguaruana,Itatira,319.0
+1613,Jaguaruana,Baturité,166.0
+1614,Jaguaruana,Iguatu,297.0
+1615,Jaguaruana,Icó,259.0
+1616,Jaguaruana,Juazeiro do Norte,409.0
+1617,Pacajus,Jijoca de Jericoacoara,346.0
+1618,Pacajus,Acaraú,284.0
+1619,Pacajus,Itarema,260.0
+1620,Pacajus,Barroquinha,432.0
+1621,Pacajus,Marco,266.0
+1622,Pacajus,Morrinhos,250.0
+1623,Pacajus,Caucaia,64.7
+1624,Pacajus,Chaval,446.0
+1625,Pacajus,Tururu,154.0
+1626,Pacajus,São Gonçalo do Amarante,103.0
+1627,Pacajus,Massapê,293.0
+1628,Pacajus,Tianguâ,362.0
+1629,Pacajus,Sobral,275.0
+1630,Pacajus,Forquilha,259.0
+1631,Pacajus,Umirim,138.0
+1632,Pacajus,Maranguape,60.2
+1633,Pacajus,Maracanaú,54.1
+1634,Pacajus,Paracuru,137.0
+1635,Pacajus,Fortaleza,53.1
+1636,Pacajus,Pacatuba,44.6
+1637,Pacajus,Aquiraz,54.3
+1638,Pacajus,Reriutaba,319.0
+1639,Pacajus,São Benedito,367.0
+1640,Pacajus,Varjota,306.0
+1641,Pacajus,Pacoti,71.2
+1642,Pacajus,Guaiúba,45.9
+1643,Pacajus,Eusébio,42.6
+1644,Pacajus,Horizonte,9.6
+1645,Pacajus,Pindoretama,36.2
+1646,Pacajus,Canindé,161.0
+1647,Pacajus,Chorozinho,14.9
+1648,Pacajus,Ibaretama,86.7
+1649,Pacajus,Jaguaruana,131.0
+1650,Pacajus,Pacajus,0.0
+1651,Pacajus,Aracati,111.0
+1652,Pacajus,Icapuí,164.0
+1653,Pacajus,Quixadá,115.0
+1654,Pacajus,Crateús,363.0
+1655,Pacajus,Morada Nova,113.0
+1656,Pacajus,Tabuleiro do Norte,157.0
+1657,Pacajus,Limoeiro do Norte,147.0
+1658,Pacajus,Piquet Carneiro,244.0
+1659,Pacajus,Saboeiro,371.0
+1660,Pacajus,Aracoiba,59.0
+1661,Pacajus,Itatira,225.0
+1662,Pacajus,Baturité,69.9
+1663,Pacajus,Iguatu,315.0
+1664,Pacajus,Icó,312.0
+1665,Pacajus,Juazeiro do Norte,445.0
+1666,Aracati,Jijoca de Jericoacoara,463.0
+1667,Aracati,Acaraú,401.0
+1668,Aracati,Itarema,378.0
+1669,Aracati,Barroquinha,550.0
+1670,Aracati,Marco,384.0
+1671,Aracati,Morrinhos,368.0
+1672,Aracati,Caucaia,182.0
+1673,Aracati,Chaval,564.0
+1674,Aracati,Tururu,272.0
+1675,Aracati,São Gonçalo do Amarante,221.0
+1676,Aracati,Massapê,411.0
+1677,Aracati,Tianguâ,480.0
+1678,Aracati,Sobral,392.0
+1679,Aracati,Forquilha,376.0
+1680,Aracati,Umirim,256.0
+1681,Aracati,Maranguape,178.0
+1682,Aracati,Maracanaú,172.0
+1683,Aracati,Paracuru,255.0
+1684,Aracati,Fortaleza,171.0
+1685,Aracati,Pacatuba,162.0
+1686,Aracati,Aquiraz,135.0
+1687,Aracati,Reriutaba,395.0
+1688,Aracati,São Benedito,443.0
+1689,Aracati,Varjota,381.0
+1690,Aracati,Pacoti,168.0
+1691,Aracati,Guaiúba,164.0
+1692,Aracati,Eusébio,160.0
+1693,Aracati,Horizonte,127.0
+1694,Aracati,Pindoretama,117.0
+1695,Aracati,Canindé,218.0
+1696,Aracati,Chorozinho,103.0
+1697,Aracati,Ibaretama,164.0
+1698,Aracati,Jaguaruana,53.7
+1699,Aracati,Pacajus,117.0
+1700,Aracati,Aracati,0.0
+1701,Aracati,Icapuí,54.8
+1702,Aracati,Quixadá,192.0
+1703,Aracati,Crateús,440.0
+1704,Aracati,Morada Nova,126.0
+1705,Aracati,Tabuleiro do Norte,120.0
+1706,Aracati,Limoeiro do Norte,111.0
+1707,Aracati,Piquet Carneiro,319.0
+1708,Aracati,Saboeiro,417.0
+1709,Aracati,Aracoiba,141.0
+1710,Aracati,Itatira,285.0
+1711,Aracati,Baturité,152.0
+1712,Aracati,Iguatu,326.0
+1713,Aracati,Icó,289.0
+1714,Aracati,Juazeiro do Norte,438.0
+1715,Icapuí,Jijoca de Jericoacoara,514.0
+1716,Icapuí,Acaraú,452.0
+1717,Icapuí,Itarema,429.0
+1718,Icapuí,Barroquinha,601.0
+1719,Icapuí,Marco,435.0
+1720,Icapuí,Morrinhos,419.0
+1721,Icapuí,Caucaia,233.0
+1722,Icapuí,Chaval,614.0
+1723,Icapuí,Tururu,322.0
+1724,Icapuí,São Gonçalo do Amarante,272.0
+1725,Icapuí,Massapê,462.0
+1726,Icapuí,Tianguâ,530.0
+1727,Icapuí,Sobral,443.0
+1728,Icapuí,Forquilha,427.0
+1729,Icapuí,Umirim,306.0
+1730,Icapuí,Maranguape,229.0
+1731,Icapuí,Maracanaú,222.0
+1732,Icapuí,Paracuru,306.0
+1733,Icapuí,Fortaleza,221.0
+1734,Icapuí,Pacatuba,213.0
+1735,Icapuí,Aquiraz,186.0
+1736,Icapuí,Reriutaba,431.0
+1737,Icapuí,São Benedito,478.0
+1738,Icapuí,Varjota,432.0
+1739,Icapuí,Pacoti,218.0
+1740,Icapuí,Guaiúba,214.0
+1741,Icapuí,Eusébio,211.0
+1742,Icapuí,Horizonte,178.0
+1743,Icapuí,Pindoretama,168.0
+1744,Icapuí,Canindé,269.0
+1745,Icapuí,Chorozinho,154.0
+1746,Icapuí,Ibaretama,214.0
+1747,Icapuí,Jaguaruana,104.0
+1748,Icapuí,Pacajus,168.0
+1749,Icapuí,Aracati,55.2
+1750,Icapuí,Icapuí,0.0
+1751,Icapuí,Quixadá,243.0
+1752,Icapuí,Crateús,491.0
+1753,Icapuí,Morada Nova,177.0
+1754,Icapuí,Tabuleiro do Norte,171.0
+1755,Icapuí,Limoeiro do Norte,162.0
+1756,Icapuí,Piquet Carneiro,369.0
+1757,Icapuí,Saboeiro,468.0
+1758,Icapuí,Aracoiba,192.0
+1759,Icapuí,Itatira,384.0
+1760,Icapuí,Baturité,203.0
+1761,Icapuí,Iguatu,377.0
+1762,Icapuí,Icó,339.0
+1763,Icapuí,Juazeiro do Norte,489.0
+1764,Quixadá,Jijoca de Jericoacoara,417.0
+1765,Quixadá,Acaraú,357.0
+1766,Quixadá,Itarema,376.0
+1767,Quixadá,Barroquinha,413.0
+1768,Quixadá,Marco,338.0
+1769,Quixadá,Morrinhos,314.0
+1770,Quixadá,Caucaia,181.0
+1771,Quixadá,Chaval,426.0
+1772,Quixadá,Tururu,245.0
+1773,Quixadá,São Gonçalo do Amarante,219.0
+1774,Quixadá,Massapê,277.0
+1775,Quixadá,Tianguâ,345.0
+1776,Quixadá,Sobral,258.0
+1777,Quixadá,Forquilha,240.0
+1778,Quixadá,Umirim,231.0
+1779,Quixadá,Maranguape,176.0
+1780,Quixadá,Maracanaú,170.0
+1781,Quixadá,Paracuru,253.0
+1782,Quixadá,Fortaleza,169.0
+1783,Quixadá,Pacatuba,160.0
+1784,Quixadá,Aquiraz,167.0
+1785,Quixadá,Reriutaba,262.0
+1786,Quixadá,São Benedito,309.0
+1787,Quixadá,Varjota,248.0
+1788,Quixadá,Pacoti,113.0
+1789,Quixadá,Guaiúba,138.0
+1790,Quixadá,Eusébio,158.0
+1791,Quixadá,Horizonte,125.0
+1792,Quixadá,Pindoretama,151.0
+1793,Quixadá,Canindé,99.4
+1794,Quixadá,Chorozinho,101.0
+1795,Quixadá,Ibaretama,27.7
+1796,Quixadá,Jaguaruana,178.0
+1797,Quixadá,Pacajus,115.0
+1798,Quixadá,Aracati,189.0
+1799,Quixadá,Icapuí,242.0
+1800,Quixadá,Quixadá,0.0
+1801,Quixadá,Crateús,248.0
+1802,Quixadá,Morada Nova,82.4
+1803,Quixadá,Tabuleiro do Norte,126.0
+1804,Quixadá,Limoeiro do Norte,116.0
+1805,Quixadá,Piquet Carneiro,129.0
+1806,Quixadá,Saboeiro,256.0
+1807,Quixadá,Aracoiba,82.1
+1808,Quixadá,Itatira,141.0
+1809,Quixadá,Baturité,88.3
+1810,Quixadá,Iguatu,196.0
+1811,Quixadá,Icó,203.0
+1812,Quixadá,Juazeiro do Norte,326.0
+1813,Crateús,Jijoca de Jericoacoara,375.0
+1814,Crateús,Acaraú,315.0
+1815,Crateús,Itarema,315.0
+1816,Crateús,Barroquinha,362.0
+1817,Crateús,Marco,296.0
+1818,Crateús,Morrinhos,273.0
+1819,Crateús,Caucaia,341.0
+1820,Crateús,Chaval,375.0
+1821,Crateús,Tururu,304.0
+1822,Crateús,São Gonçalo do Amarante,338.0
+1823,Crateús,Massapê,235.0
+1824,Crateús,Tianguâ,206.0
+1825,Crateús,Sobral,216.0
+1826,Crateús,Forquilha,198.0
+1827,Crateús,Umirim,290.0
+1828,Crateús,Maranguape,333.0
+1829,Crateús,Maracanaú,349.0
+1830,Crateús,Paracuru,346.0
+1831,Crateús,Fortaleza,350.0
+1832,Crateús,Pacatuba,343.0
+1833,Crateús,Aquiraz,374.0
+1834,Crateús,Reriutaba,156.0
+1835,Crateús,São Benedito,166.0
+1836,Crateús,Varjota,151.0
+1837,Crateús,Pacoti,305.0
+1838,Crateús,Guaiúba,338.0
+1839,Crateús,Eusébio,365.0
+1840,Crateús,Horizonte,374.0
+1841,Crateús,Pindoretama,393.0
+1842,Crateús,Canindé,234.0
+1843,Crateús,Chorozinho,349.0
+1844,Crateús,Ibaretama,276.0
+1845,Crateús,Jaguaruana,432.0
+1846,Crateús,Pacajus,363.0
+1847,Crateús,Aracati,437.0
+1848,Crateús,Icapuí,490.0
+1849,Crateús,Quixadá,248.0
+1850,Crateús,Crateús,0.0
+1851,Crateús,Morada Nova,327.0
+1852,Crateús,Tabuleiro do Norte,367.0
+1853,Crateús,Limoeiro do Norte,362.0
+1854,Crateús,Piquet Carneiro,203.0
+1855,Crateús,Saboeiro,247.0
+1856,Crateús,Aracoiba,313.0
+1857,Crateús,Itatira,250.0
+1858,Crateús,Baturité,319.0
+1859,Crateús,Iguatu,251.0
+1860,Crateús,Icó,305.0
+1861,Crateús,Juazeiro do Norte,367.0
+1862,Morada Nova,Jijoca de Jericoacoara,460.0
+1863,Morada Nova,Acaraú,397.0
+1864,Morada Nova,Itarema,374.0
+1865,Morada Nova,Barroquinha,495.0
+1866,Morada Nova,Marco,380.0
+1867,Morada Nova,Morrinhos,364.0
+1868,Morada Nova,Caucaia,179.0
+1869,Morada Nova,Chaval,508.0
+1870,Morada Nova,Tururu,268.0
+1871,Morada Nova,São Gonçalo do Amarante,217.0
+1872,Morada Nova,Massapê,359.0
+1873,Morada Nova,Tianguâ,427.0
+1874,Morada Nova,Sobral,340.0
+1875,Morada Nova,Forquilha,322.0
+1876,Morada Nova,Umirim,252.0
+1877,Morada Nova,Maranguape,174.0
+1878,Morada Nova,Maracanaú,168.0
+1879,Morada Nova,Paracuru,251.0
+1880,Morada Nova,Fortaleza,167.0
+1881,Morada Nova,Pacatuba,158.0
+1882,Morada Nova,Aquiraz,165.0
+1883,Morada Nova,Reriutaba,344.0
+1884,Morada Nova,São Benedito,391.0
+1885,Morada Nova,Varjota,330.0
+1886,Morada Nova,Pacoti,164.0
+1887,Morada Nova,Guaiúba,160.0
+1888,Morada Nova,Eusébio,156.0
+1889,Morada Nova,Horizonte,123.0
+1890,Morada Nova,Pindoretama,149.0
+1891,Morada Nova,Canindé,181.0
+1892,Morada Nova,Chorozinho,99.4
+1893,Morada Nova,Ibaretama,114.0
+1894,Morada Nova,Jaguaruana,96.9
+1895,Morada Nova,Pacajus,113.0
+1896,Morada Nova,Aracati,124.0
+1897,Morada Nova,Icapuí,177.0
+1898,Morada Nova,Quixadá,80.4
+1899,Morada Nova,Crateús,327.0
+1900,Morada Nova,Morada Nova,0.0
+1901,Morada Nova,Tabuleiro do Norte,50.3
+1902,Morada Nova,Limoeiro do Norte,35.9
+1903,Morada Nova,Piquet Carneiro,196.0
+1904,Morada Nova,Saboeiro,294.0
+1905,Morada Nova,Aracoiba,128.0
+1906,Morada Nova,Itatira,223.0
+1907,Morada Nova,Baturité,139.0
+1908,Morada Nova,Iguatu,204.0
+1909,Morada Nova,Icó,201.0
+1910,Morada Nova,Juazeiro do Norte,334.0
+1911,Tabuleiro do Norte,Jijoca de Jericoacoara,503.0
+1912,Tabuleiro do Norte,Acaraú,441.0
+1913,Tabuleiro do Norte,Itarema,417.0
+1914,Tabuleiro do Norte,Barroquinha,538.0
+1915,Tabuleiro do Norte,Marco,424.0
+1916,Tabuleiro do Norte,Morrinhos,408.0
+1917,Tabuleiro do Norte,Caucaia,222.0
+1918,Tabuleiro do Norte,Chaval,552.0
+1919,Tabuleiro do Norte,Tururu,311.0
+1920,Tabuleiro do Norte,São Gonçalo do Amarante,260.0
+1921,Tabuleiro do Norte,Massapê,402.0
+1922,Tabuleiro do Norte,Tianguâ,471.0
+1923,Tabuleiro do Norte,Sobral,383.0
+1924,Tabuleiro do Norte,Forquilha,366.0
+1925,Tabuleiro do Norte,Umirim,295.0
+1926,Tabuleiro do Norte,Maranguape,217.0
+1927,Tabuleiro do Norte,Maracanaú,211.0
+1928,Tabuleiro do Norte,Paracuru,295.0
+1929,Tabuleiro do Norte,Fortaleza,210.0
+1930,Tabuleiro do Norte,Pacatuba,202.0
+1931,Tabuleiro do Norte,Aquiraz,208.0
+1932,Tabuleiro do Norte,Reriutaba,387.0
+1933,Tabuleiro do Norte,São Benedito,435.0
+1934,Tabuleiro do Norte,Varjota,374.0
+1935,Tabuleiro do Norte,Pacoti,207.0
+1936,Tabuleiro do Norte,Guaiúba,203.0
+1937,Tabuleiro do Norte,Eusébio,200.0
+1938,Tabuleiro do Norte,Horizonte,167.0
+1939,Tabuleiro do Norte,Pindoretama,193.0
+1940,Tabuleiro do Norte,Canindé,225.0
+1941,Tabuleiro do Norte,Chorozinho,143.0
+1942,Tabuleiro do Norte,Ibaretama,157.0
+1943,Tabuleiro do Norte,Jaguaruana,90.8
+1944,Tabuleiro do Norte,Pacajus,156.0
+1945,Tabuleiro do Norte,Aracati,118.0
+1946,Tabuleiro do Norte,Icapuí,171.0
+1947,Tabuleiro do Norte,Quixadá,124.0
+1948,Tabuleiro do Norte,Crateús,367.0
+1949,Tabuleiro do Norte,Morada Nova,45.1
+1950,Tabuleiro do Norte,Tabuleiro do Norte,0.0
+1951,Tabuleiro do Norte,Limoeiro do Norte,11.5
+1952,Tabuleiro do Norte,Piquet Carneiro,224.0
+1953,Tabuleiro do Norte,Saboeiro,322.0
+1954,Tabuleiro do Norte,Aracoiba,171.0
+1955,Tabuleiro do Norte,Itatira,267.0
+1956,Tabuleiro do Norte,Baturité,182.0
+1957,Tabuleiro do Norte,Iguatu,232.0
+1958,Tabuleiro do Norte,Icó,179.0
+1959,Tabuleiro do Norte,Juazeiro do Norte,329.0
+1960,Limoeiro do Norte,Jijoca de Jericoacoara,494.0
+1961,Limoeiro do Norte,Acaraú,432.0
+1962,Limoeiro do Norte,Itarema,408.0
+1963,Limoeiro do Norte,Barroquinha,529.0
+1964,Limoeiro do Norte,Marco,415.0
+1965,Limoeiro do Norte,Morrinhos,399.0
+1966,Limoeiro do Norte,Caucaia,213.0
+1967,Limoeiro do Norte,Chaval,543.0
+1968,Limoeiro do Norte,Tururu,302.0
+1969,Limoeiro do Norte,São Gonçalo do Amarante,251.0
+1970,Limoeiro do Norte,Massapê,393.0
+1971,Limoeiro do Norte,Tianguâ,461.0
+1972,Limoeiro do Norte,Sobral,374.0
+1973,Limoeiro do Norte,Forquilha,356.0
+1974,Limoeiro do Norte,Umirim,286.0
+1975,Limoeiro do Norte,Maranguape,208.0
+1976,Limoeiro do Norte,Maracanaú,202.0
+1977,Limoeiro do Norte,Paracuru,286.0
+1978,Limoeiro do Norte,Fortaleza,201.0
+1979,Limoeiro do Norte,Pacatuba,193.0
+1980,Limoeiro do Norte,Aquiraz,199.0
+1981,Limoeiro do Norte,Reriutaba,378.0
+1982,Limoeiro do Norte,São Benedito,426.0
+1983,Limoeiro do Norte,Varjota,364.0
+1984,Limoeiro do Norte,Pacoti,198.0
+1985,Limoeiro do Norte,Guaiúba,194.0
+1986,Limoeiro do Norte,Eusébio,191.0
+1987,Limoeiro do Norte,Horizonte,158.0
+1988,Limoeiro do Norte,Pindoretama,184.0
+1989,Limoeiro do Norte,Canindé,216.0
+1990,Limoeiro do Norte,Chorozinho,134.0
+1991,Limoeiro do Norte,Ibaretama,148.0
+1992,Limoeiro do Norte,Jaguaruana,76.0
+1993,Limoeiro do Norte,Pacajus,147.0
+1994,Limoeiro do Norte,Aracati,103.0
+1995,Limoeiro do Norte,Icapuí,156.0
+1996,Limoeiro do Norte,Quixadá,115.0
+1997,Limoeiro do Norte,Crateús,361.0
+1998,Limoeiro do Norte,Morada Nova,36.0
+1999,Limoeiro do Norte,Tabuleiro do Norte,11.7
+2000,Limoeiro do Norte,Limoeiro do Norte,0.0
+2001,Limoeiro do Norte,Piquet Carneiro,228.0
+2002,Limoeiro do Norte,Saboeiro,327.0
+2003,Limoeiro do Norte,Aracoiba,162.0
+2004,Limoeiro do Norte,Itatira,258.0
+2005,Limoeiro do Norte,Baturité,173.0
+2006,Limoeiro do Norte,Iguatu,236.0
+2007,Limoeiro do Norte,Icó,191.0
+2008,Limoeiro do Norte,Juazeiro do Norte,341.0
+2009,Piquet Carneiro,Jijoca de Jericoacoara,535.0
+2010,Piquet Carneiro,Acaraú,475.0
+2011,Piquet Carneiro,Itarema,518.0
+2012,Piquet Carneiro,Barroquinha,531.0
+2013,Piquet Carneiro,Marco,457.0
+2014,Piquet Carneiro,Morrinhos,433.0
+2015,Piquet Carneiro,Caucaia,324.0
+2016,Piquet Carneiro,Chaval,545.0
+2017,Piquet Carneiro,Tururu,363.0
+2018,Piquet Carneiro,São Gonçalo do Amarante,361.0
+2019,Piquet Carneiro,Massapê,395.0
+2020,Piquet Carneiro,Tianguâ,405.0
+2021,Piquet Carneiro,Sobral,376.0
+2022,Piquet Carneiro,Forquilha,359.0
+2023,Piquet Carneiro,Umirim,349.0
+2024,Piquet Carneiro,Maranguape,305.0
+2025,Piquet Carneiro,Maracanaú,298.0
+2026,Piquet Carneiro,Paracuru,395.0
+2027,Piquet Carneiro,Fortaleza,297.0
+2028,Piquet Carneiro,Pacatuba,289.0
+2029,Piquet Carneiro,Aquiraz,295.0
+2030,Piquet Carneiro,Reriutaba,355.0
+2031,Piquet Carneiro,São Benedito,366.0
+2032,Piquet Carneiro,Varjota,351.0
+2033,Piquet Carneiro,Pacoti,241.0
+2034,Piquet Carneiro,Guaiúba,290.0
+2035,Piquet Carneiro,Eusébio,287.0
+2036,Piquet Carneiro,Horizonte,254.0
+2037,Piquet Carneiro,Pindoretama,280.0
+2038,Piquet Carneiro,Canindé,218.0
+2039,Piquet Carneiro,Chorozinho,230.0
+2040,Piquet Carneiro,Ibaretama,156.0
+2041,Piquet Carneiro,Jaguaruana,289.0
+2042,Piquet Carneiro,Pacajus,244.0
+2043,Piquet Carneiro,Aracati,316.0
+2044,Piquet Carneiro,Icapuí,369.0
+2045,Piquet Carneiro,Quixadá,128.0
+2046,Piquet Carneiro,Crateús,203.0
+2047,Piquet Carneiro,Morada Nova,196.0
+2048,Piquet Carneiro,Tabuleiro do Norte,224.0
+2049,Piquet Carneiro,Limoeiro do Norte,228.0
+2050,Piquet Carneiro,Piquet Carneiro,0.0
+2051,Piquet Carneiro,Saboeiro,123.0
+2052,Piquet Carneiro,Aracoiba,210.0
+2053,Piquet Carneiro,Itatira,220.0
+2054,Piquet Carneiro,Baturité,217.0
+2055,Piquet Carneiro,Iguatu,86.8
+2056,Piquet Carneiro,Icó,141.0
+2057,Piquet Carneiro,Juazeiro do Norte,241.0
+2058,Saboeiro,Jijoca de Jericoacoara,622.0
+2059,Saboeiro,Acaraú,562.0
+2060,Saboeiro,Itarema,562.0
+2061,Saboeiro,Barroquinha,609.0
+2062,Saboeiro,Marco,543.0
+2063,Saboeiro,Morrinhos,520.0
+2064,Saboeiro,Caucaia,443.0
+2065,Saboeiro,Chaval,622.0
+2066,Saboeiro,Tururu,482.0
+2067,Saboeiro,São Gonçalo do Amarante,480.0
+2068,Saboeiro,Massapê,482.0
+2069,Saboeiro,Tianguâ,453.0
+2070,Saboeiro,Sobral,463.0
+2071,Saboeiro,Forquilha,445.0
+2072,Saboeiro,Umirim,468.0
+2073,Saboeiro,Maranguape,435.0
+2074,Saboeiro,Maracanaú,451.0
+2075,Saboeiro,Paracuru,514.0
+2076,Saboeiro,Fortaleza,452.0
+2077,Saboeiro,Pacatuba,445.0
+2078,Saboeiro,Aquiraz,457.0
+2079,Saboeiro,Reriutaba,403.0
+2080,Saboeiro,São Benedito,413.0
+2081,Saboeiro,Varjota,398.0
+2082,Saboeiro,Pacoti,407.0
+2083,Saboeiro,Guaiúba,440.0
+2084,Saboeiro,Eusébio,449.0
+2085,Saboeiro,Horizonte,382.0
+2086,Saboeiro,Pindoretama,408.0
+2087,Saboeiro,Canindé,337.0
+2088,Saboeiro,Chorozinho,358.0
+2089,Saboeiro,Ibaretama,284.0
+2090,Saboeiro,Jaguaruana,387.0
+2091,Saboeiro,Pacajus,371.0
+2092,Saboeiro,Aracati,414.0
+2093,Saboeiro,Icapuí,467.0
+2094,Saboeiro,Quixadá,256.0
+2095,Saboeiro,Crateús,247.0
+2096,Saboeiro,Morada Nova,294.0
+2097,Saboeiro,Tabuleiro do Norte,322.0
+2098,Saboeiro,Limoeiro do Norte,326.0
+2099,Saboeiro,Piquet Carneiro,123.0
+2100,Saboeiro,Saboeiro,0.0
+2101,Saboeiro,Aracoiba,338.0
+2102,Saboeiro,Itatira,326.0
+2103,Saboeiro,Baturité,345.0
+2104,Saboeiro,Iguatu,93.0
+2105,Saboeiro,Icó,143.0
+2106,Saboeiro,Juazeiro do Norte,162.0
+2107,Aracoiba,Jijoca de Jericoacoara,397.0
+2108,Aracoiba,Acaraú,335.0
+2109,Aracoiba,Itarema,312.0
+2110,Aracoiba,Barroquinha,390.0
+2111,Aracoiba,Marco,318.0
+2112,Aracoiba,Morrinhos,291.0
+2113,Aracoiba,Caucaia,116.0
+2114,Aracoiba,Chaval,403.0
+2115,Aracoiba,Tururu,206.0
+2116,Aracoiba,São Gonçalo do Amarante,155.0
+2117,Aracoiba,Massapê,253.0
+2118,Aracoiba,Tianguâ,322.0
+2119,Aracoiba,Sobral,235.0
+2120,Aracoiba,Forquilha,217.0
+2121,Aracoiba,Umirim,190.0
+2122,Aracoiba,Maranguape,72.9
+2123,Aracoiba,Maracanaú,79.0
+2124,Aracoiba,Paracuru,189.0
+2125,Aracoiba,Fortaleza,105.0
+2126,Aracoiba,Pacatuba,69.2
+2127,Aracoiba,Aquiraz,103.0
+2128,Aracoiba,Reriutaba,239.0
+2129,Aracoiba,São Benedito,286.0
+2130,Aracoiba,Varjota,225.0
+2131,Aracoiba,Pacoti,35.3
+2132,Aracoiba,Guaiúba,56.3
+2133,Aracoiba,Eusébio,94.3
+2134,Aracoiba,Horizonte,61.3
+2135,Aracoiba,Pindoretama,92.1
+2136,Aracoiba,Canindé,76.7
+2137,Aracoiba,Chorozinho,48.9
+2138,Aracoiba,Ibaretama,81.2
+2139,Aracoiba,Jaguaruana,164.0
+2140,Aracoiba,Pacajus,55.9
+2141,Aracoiba,Aracati,147.0
+2142,Aracoiba,Icapuí,200.0
+2143,Aracoiba,Quixadá,82.1
+2144,Aracoiba,Crateús,312.0
+2145,Aracoiba,Morada Nova,123.0
+2146,Aracoiba,Tabuleiro do Norte,167.0
+2147,Aracoiba,Limoeiro do Norte,157.0
+2148,Aracoiba,Piquet Carneiro,210.0
+2149,Aracoiba,Saboeiro,338.0
+2150,Aracoiba,Aracoiba,0.0
+2151,Aracoiba,Itatira,144.0
+2152,Aracoiba,Baturité,10.8
+2153,Aracoiba,Iguatu,278.0
+2154,Aracoiba,Icó,285.0
+2155,Aracoiba,Juazeiro do Norte,407.0
+2156,Itatira,Jijoca de Jericoacoara,331.0
+2157,Itatira,Acaraú,271.0
+2158,Itatira,Itarema,269.0
+2159,Itatira,Barroquinha,327.0
+2160,Itatira,Marco,253.0
+2161,Itatira,Morrinhos,229.0
+2162,Itatira,Caucaia,172.0
+2163,Itatira,Chaval,341.0
+2164,Itatira,Tururu,151.0
+2165,Itatira,São Gonçalo do Amarante,209.0
+2166,Itatira,Massapê,191.0
+2167,Itatira,Tianguâ,260.0
+2168,Itatira,Sobral,172.0
+2169,Itatira,Forquilha,155.0
+2170,Itatira,Umirim,137.0
+2171,Itatira,Maranguape,164.0
+2172,Itatira,Maracanaú,180.0
+2173,Itatira,Paracuru,194.0
+2174,Itatira,Fortaleza,181.0
+2175,Itatira,Pacatuba,174.0
+2176,Itatira,Aquiraz,205.0
+2177,Itatira,Reriutaba,176.0
+2178,Itatira,São Benedito,224.0
+2179,Itatira,Varjota,163.0
+2180,Itatira,Pacoti,137.0
+2181,Itatira,Guaiúba,169.0
+2182,Itatira,Eusébio,197.0
+2183,Itatira,Horizonte,221.0
+2184,Itatira,Pindoretama,224.0
+2185,Itatira,Canindé,65.0
+2186,Itatira,Chorozinho,193.0
+2187,Itatira,Ibaretama,169.0
+2188,Itatira,Jaguaruana,317.0
+2189,Itatira,Pacajus,227.0
+2190,Itatira,Aracati,324.0
+2191,Itatira,Icapuí,377.0
+2192,Itatira,Quixadá,141.0
+2193,Itatira,Crateús,228.0
+2194,Itatira,Morada Nova,222.0
+2195,Itatira,Tabuleiro do Norte,265.0
+2196,Itatira,Limoeiro do Norte,256.0
+2197,Itatira,Piquet Carneiro,220.0
+2198,Itatira,Saboeiro,326.0
+2199,Itatira,Aracoiba,144.0
+2200,Itatira,Itatira,0.0
+2201,Itatira,Baturité,150.0
+2202,Itatira,Iguatu,267.0
+2203,Itatira,Icó,323.0
+2204,Itatira,Juazeiro do Norte,446.0
+2205,Baturité,Jijoca de Jericoacoara,407.0
+2206,Baturité,Acaraú,346.0
+2207,Baturité,Itarema,323.0
+2208,Baturité,Barroquinha,396.0
+2209,Baturité,Marco,294.0
+2210,Baturité,Morrinhos,278.0
+2211,Baturité,Caucaia,127.0
+2212,Baturité,Chaval,410.0
+2213,Baturité,Tururu,181.0
+2214,Baturité,São Gonçalo do Amarante,166.0
+2215,Baturité,Massapê,260.0
+2216,Baturité,Tianguâ,328.0
+2217,Baturité,Sobral,241.0
+2218,Baturité,Forquilha,223.0
+2219,Baturité,Umirim,167.0
+2220,Baturité,Maranguape,83.7
+2221,Baturité,Maracanaú,89.8
+2222,Baturité,Paracuru,200.0
+2223,Baturité,Fortaleza,116.0
+2224,Baturité,Pacatuba,80.1
+2225,Baturité,Aquiraz,113.0
+2226,Baturité,Reriutaba,245.0
+2227,Baturité,São Benedito,292.0
+2228,Baturité,Varjota,231.0
+2229,Baturité,Pacoti,24.5
+2230,Baturité,Guaiúba,67.1
+2231,Baturité,Eusébio,105.0
+2232,Baturité,Horizonte,72.2
+2233,Baturité,Pindoretama,103.0
+2234,Baturité,Canindé,82.9
+2235,Baturité,Chorozinho,59.7
+2236,Baturité,Ibaretama,92.1
+2237,Baturité,Jaguaruana,174.0
+2238,Baturité,Pacajus,66.7
+2239,Baturité,Aracati,158.0
+2240,Baturité,Icapuí,211.0
+2241,Baturité,Quixadá,88.3
+2242,Baturité,Crateús,319.0
+2243,Baturité,Morada Nova,134.0
+2244,Baturité,Tabuleiro do Norte,178.0
+2245,Baturité,Limoeiro do Norte,168.0
+2246,Baturité,Piquet Carneiro,217.0
+2247,Baturité,Saboeiro,344.0
+2248,Baturité,Aracoiba,10.9
+2249,Baturité,Itatira,150.0
+2250,Baturité,Baturité,0.0
+2251,Baturité,Iguatu,284.0
+2252,Baturité,Icó,291.0
+2253,Baturité,Juazeiro do Norte,414.0
+2254,Iguatu,Jijoca de Jericoacoara,570.0
+2255,Iguatu,Acaraú,509.0
+2256,Iguatu,Itarema,576.0
+2257,Iguatu,Barroquinha,574.0
+2258,Iguatu,Marco,491.0
+2259,Iguatu,Morrinhos,467.0
+2260,Iguatu,Caucaia,381.0
+2261,Iguatu,Chaval,588.0
+2262,Iguatu,Tururu,423.0
+2263,Iguatu,São Gonçalo do Amarante,419.0
+2264,Iguatu,Massapê,455.0
+2265,Iguatu,Tianguâ,454.0
+2266,Iguatu,Sobral,436.0
+2267,Iguatu,Forquilha,418.0
+2268,Iguatu,Umirim,409.0
+2269,Iguatu,Maranguape,376.0
+2270,Iguatu,Maracanaú,370.0
+2271,Iguatu,Paracuru,453.0
+2272,Iguatu,Fortaleza,369.0
+2273,Iguatu,Pacatuba,357.0
+2274,Iguatu,Aquiraz,367.0
+2275,Iguatu,Reriutaba,404.0
+2276,Iguatu,São Benedito,414.0
+2277,Iguatu,Varjota,399.0
+2278,Iguatu,Pacoti,309.0
+2279,Iguatu,Guaiúba,362.0
+2280,Iguatu,Eusébio,358.0
+2281,Iguatu,Horizonte,322.0
+2282,Iguatu,Pindoretama,351.0
+2283,Iguatu,Canindé,278.0
+2284,Iguatu,Chorozinho,297.0
+2285,Iguatu,Ibaretama,224.0
+2286,Iguatu,Jaguaruana,297.0
+2287,Iguatu,Pacajus,311.0
+2288,Iguatu,Aracati,324.0
+2289,Iguatu,Icapuí,377.0
+2290,Iguatu,Quixadá,196.0
+2291,Iguatu,Crateús,252.0
+2292,Iguatu,Morada Nova,204.0
+2293,Iguatu,Tabuleiro do Norte,232.0
+2294,Iguatu,Limoeiro do Norte,236.0
+2295,Iguatu,Piquet Carneiro,86.8
+2296,Iguatu,Saboeiro,92.3
+2297,Iguatu,Aracoiba,278.0
+2298,Iguatu,Itatira,267.0
+2299,Iguatu,Baturité,284.0
+2300,Iguatu,Iguatu,0.0
+2301,Iguatu,Icó,54.2
+2302,Iguatu,Juazeiro do Norte,154.0
+2303,Icó,Jijoca de Jericoacoara,659.0
+2304,Icó,Acaraú,597.0
+2305,Icó,Itarema,573.0
+2306,Icó,Barroquinha,616.0
+2307,Icó,Marco,541.0
+2308,Icó,Morrinhos,518.0
+2309,Icó,Caucaia,378.0
+2310,Icó,Chaval,630.0
+2311,Icó,Tururu,467.0
+2312,Icó,São Gonçalo do Amarante,416.0
+2313,Icó,Massapê,480.0
+2314,Icó,Tianguâ,508.0
+2315,Icó,Sobral,461.0
+2316,Icó,Forquilha,443.0
+2317,Icó,Umirim,451.0
+2318,Icó,Maranguape,373.0
+2319,Icó,Maracanaú,367.0
+2320,Icó,Paracuru,450.0
+2321,Icó,Fortaleza,366.0
+2322,Icó,Pacatuba,358.0
+2323,Icó,Aquiraz,364.0
+2324,Icó,Reriutaba,458.0
+2325,Icó,São Benedito,468.0
+2326,Icó,Varjota,451.0
+2327,Icó,Pacoti,316.0
+2328,Icó,Guaiúba,359.0
+2329,Icó,Eusébio,355.0
+2330,Icó,Horizonte,323.0
+2331,Icó,Pindoretama,348.0
+2332,Icó,Canindé,302.0
+2333,Icó,Chorozinho,298.0
+2334,Icó,Ibaretama,231.0
+2335,Icó,Jaguaruana,259.0
+2336,Icó,Pacajus,312.0
+2337,Icó,Aracati,286.0
+2338,Icó,Icapuí,339.0
+2339,Icó,Quixadá,203.0
+2340,Icó,Crateús,305.0
+2341,Icó,Morada Nova,201.0
+2342,Icó,Tabuleiro do Norte,179.0
+2343,Icó,Limoeiro do Norte,191.0
+2344,Icó,Piquet Carneiro,141.0
+2345,Icó,Saboeiro,143.0
+2346,Icó,Aracoiba,285.0
+2347,Icó,Itatira,323.0
+2348,Icó,Baturité,291.0
+2349,Icó,Iguatu,53.4
+2350,Icó,Icó,0.0
+2351,Icó,Juazeiro do Norte,151.0
+2352,Juazeiro do Norte,Jijoca de Jericoacoara,743.0
+2353,Juazeiro do Norte,Acaraú,683.0
+2354,Juazeiro do Norte,Itarema,705.0
+2355,Juazeiro do Norte,Barroquinha,730.0
+2356,Juazeiro do Norte,Marco,665.0
+2357,Juazeiro do Norte,Morrinhos,641.0
+2358,Juazeiro do Norte,Caucaia,526.0
+2359,Juazeiro do Norte,Chaval,744.0
+2360,Juazeiro do Norte,Tururu,604.0
+2361,Juazeiro do Norte,São Gonçalo do Amarante,564.0
+2362,Juazeiro do Norte,Massapê,603.0
+2363,Juazeiro do Norte,Tianguâ,574.0
+2364,Juazeiro do Norte,Sobral,584.0
+2365,Juazeiro do Norte,Forquilha,567.0
+2366,Juazeiro do Norte,Umirim,590.0
+2367,Juazeiro do Norte,Maranguape,516.0
+2368,Juazeiro do Norte,Maracanaú,515.0
+2369,Juazeiro do Norte,Paracuru,582.0
+2370,Juazeiro do Norte,Fortaleza,514.0
+2371,Juazeiro do Norte,Pacatuba,489.0
+2372,Juazeiro do Norte,Aquiraz,512.0
+2373,Juazeiro do Norte,Reriutaba,524.0
+2374,Juazeiro do Norte,São Benedito,534.0
+2375,Juazeiro do Norte,Varjota,519.0
+2376,Juazeiro do Norte,Pacoti,437.0
+2377,Juazeiro do Norte,Guaiúba,507.0
+2378,Juazeiro do Norte,Eusébio,504.0
+2379,Juazeiro do Norte,Horizonte,471.0
+2380,Juazeiro do Norte,Pindoretama,497.0
+2381,Juazeiro do Norte,Canindé,458.0
+2382,Juazeiro do Norte,Chorozinho,447.0
+2383,Juazeiro do Norte,Ibaretama,352.0
+2384,Juazeiro do Norte,Jaguaruana,408.0
+2385,Juazeiro do Norte,Pacajus,460.0
+2386,Juazeiro do Norte,Aracati,435.0
+2387,Juazeiro do Norte,Icapuí,488.0
+2388,Juazeiro do Norte,Quixadá,324.0
+2389,Juazeiro do Norte,Crateús,369.0
+2390,Juazeiro do Norte,Morada Nova,349.0
+2391,Juazeiro do Norte,Tabuleiro do Norte,328.0
+2392,Juazeiro do Norte,Limoeiro do Norte,339.0
+2393,Juazeiro do Norte,Piquet Carneiro,242.0
+2394,Juazeiro do Norte,Saboeiro,163.0
+2395,Juazeiro do Norte,Aracoiba,407.0
+2396,Juazeiro do Norte,Itatira,448.0
+2397,Juazeiro do Norte,Baturité,413.0
+2398,Juazeiro do Norte,Iguatu,155.0
+2399,Juazeiro do Norte,Icó,152.0
+2400,Juazeiro do Norte,Juazeiro do Norte,0.0
