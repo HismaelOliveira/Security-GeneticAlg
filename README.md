@@ -1,4 +1,4 @@
-# Public Security Using Genetic Algorithm
+# Allocation of Tactical Groups to Public Security Using Genetic Algorithm
 
 The problem of staging tactical groups for public security consists of distributing and allocating tactical security groups in response to terrorist attacks located in cities in the state.
 
