@@ -1,3 +1,7 @@
 # Public Security Using Genetic Algorithm
 
-O problema do escalonamento de grupos táticos para segurança pública consiste na distribuição e alocação de grupos táticos de segurança em resposta à ataques de terrorismo localizados em cidades do estado
+The problem of staging tactical groups for public security consists of distributing and allocating tactical security groups in response to terrorist attacks located in cities in the state.
+
+Each tactical unit is equipped with armored vehicles with which it can move between cities, and communicate with an intelligence center. The function of a tactical team is to conduct safety-related operations in one city and then move to another city. The role of the Intelligence Center is to monitor the attacks and, depending on the distance and severity of the situation, inform a tactical unit of which city the unit should move. The Intelligence Center must define a list of cities that should be visited by each tactical unit.
+
+Consider that each city has a security level between 0 and 5, being 0 for a city that is not being attacked and 5 for a city that is being strongly attacked. A tactical unit can operate for 1 to 5 days in a city according to the level of security in place. For each day a city remains unattended, it has a number of casualties equal to the current security level per day, so a security-level 5-city attacked for 3 days should have a total of 15 casualties. Once the tactical unit installs itself in the city, the number of victims increases. The role of the Intelligence Center is to define which tactical units should visit which cities and in which order to minimize the number of victims.
